@@ -1,5 +1,22 @@
 import openpyxl
 import nvdlib
+import re
+import time
+
+
+
+def validate_input(input_str):
+    # Regular expression to check for spaces or special characters
+    pattern = re.compile(r'[\s!@#$%^&*()=_+[\]{}|;:",.<>?/\\]')
+
+    # Check if the input contains spaces or special characters
+    if pattern.search(input_str):
+        # If spaces are encountered, ignore the rest of the input
+        input_str = input_str.split()[0]
+
+    return input_str
+
+
 
 def generate_cpe_string(package_name, vendor, package_version):
     cpe_version = "2.3"  # CPE version
@@ -42,7 +59,9 @@ def read_packages_from_excel(filename):
         
         for row in sheet.iter_rows(min_row=2, values_only=True):
             package_name = row[package_column - 1]
+            package_name = validate_input(package_name)
             vendor = row[vendor_column - 1]
+            vendor = validate_input(vendor)
             package_version = row[version_column - 1]
             cpe_string = generate_cpe_string(package_name, vendor, package_version)
             package_data.append(cpe_string)
@@ -55,9 +74,11 @@ def read_packages_from_excel(filename):
 if __name__ == "__main__":
     excel_filename = "Book1.xlsx"
     cpe_strings = read_packages_from_excel(excel_filename)
-    
+    i = 0
     for cpe_string in cpe_strings:
         print(f"CPE String: {cpe_string}")
         r = nvdlib.searchCVE(cpeName = cpe_string)
         for eachCVE in r:
            print(eachCVE.id, eachCVE.score, eachCVE.url)
+
+ 
