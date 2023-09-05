@@ -34,12 +34,14 @@ def generate_cpe_string(package_name, vendor, package_version):
     cpe_string = f"cpe:{cpe_version}:{part}:{vendor}:{product}:{version}:{update}:{edition}:{language}:{sw_edition}:{target_sw}:{target_hw}:{other}"
     return cpe_string
 
-def read_packages_from_excel(filename):
+def read_packages_from_excel(filename, sheet_name):
     package_data = []
     
     try:
         workbook = openpyxl.load_workbook(filename)
-        sheet = workbook.active
+        sheet = workbook[sheet_name]
+
+      #  sheet = workbook.active
         
         package_column = None
         vendor_column = None
@@ -73,7 +75,9 @@ def read_packages_from_excel(filename):
 
 if __name__ == "__main__":
     excel_filename = "Book1.xlsx"
-    cpe_strings = read_packages_from_excel(excel_filename)
+    sheet_name = "nshield5"
+
+    cpe_strings = read_packages_from_excel(excel_filename, sheet_name)
     i = 0
     for cpe_string in cpe_strings:
         print(f"CPE String: {cpe_string}")
