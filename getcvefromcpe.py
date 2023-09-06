@@ -1,7 +1,6 @@
 import openpyxl
 import nvdlib
 import re
-import time
 
 
 
@@ -16,6 +15,19 @@ def validate_input(input_str):
 
     return input_str
 
+
+def process_nums(input_str):
+    valid_input = []
+    encountered_dot = False 
+    for char in input_str:
+        if char.isdigit() or char.isalpha():
+            valid_input.append(char)
+        elif char == '.' and not encountered_dot:
+            valid_input.append(char)
+            encountered_dot = True
+        else:
+            break
+    return ''.join(valid_input)
 
 
 def generate_cpe_string(package_name, vendor, package_version):
@@ -59,12 +71,13 @@ def read_packages_from_excel(filename, sheet):
             
         for row in sheet.iter_rows(min_row=2, values_only=True):
             package_name = row[package_column - 1]
-            package_name = validate_input(package_name)
+            package_name = validate_input(str(package_name))
             vendor = row[vendor_column - 1]
             if not vendor:
                 vendor = package_name
-            vendor = validate_input(vendor)
+            vendor = validate_input(str(vendor))
             package_version = row[version_column - 1]
+            package_version = process_nums(str(package_version))
             cpe_string = generate_cpe_string(package_name, vendor, package_version)
             package_data.append(cpe_string)
                     
@@ -72,10 +85,13 @@ def read_packages_from_excel(filename, sheet):
         print(f"An error occurred: {e}")
         
     return package_data
+ 
 
 if __name__ == "__main__":
     excel_filename = "Book1.xlsx"
-    sheet_name = ['test','product1','product2']
+
+    """modify the list as appropriate"""
+    sheet_name = ['product1']
 
   
     for sheet in sheet_name:
