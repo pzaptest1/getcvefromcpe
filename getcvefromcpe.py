@@ -1,7 +1,37 @@
 import openpyxl
 import nvdlib
 import re
+import sys
+import json
+import requests
 
+def get_epss_scores(cve):
+    epss_scores = {}
+    
+    try:
+        # Get the EPSS Score from the FIRST EPSS API
+        response = requests.get('https://api.first.org/data/v1/epss/?cve=' + cve.strip())
+        
+        if response.status_code == 200:
+            data = response.json()
+            
+            for item in data['data']:
+                cve = item["cve"]
+                epss = item["epss"]
+                percentile = item["percentile"]
+                
+                epss_scores[cve] = {
+                    'epss': epss,
+                    'percentile': percentile
+                }
+                
+                #print(f"CVE: {cve}, EPSS Score: {epss}, Percentile: {percentile} ")
+        else:
+            epss_scores[cve] = 'Error: Status code ' + str(response.status_code)
+    except Exception as e:
+        epss_scores[cve] = 'Error: ' + str(e)
+    
+    return epss_scores
 
 
 def validate_input(input_str):
@@ -88,21 +118,34 @@ def read_packages_from_excel(filename, sheet):
  
 
 if __name__ == "__main__":
-    excel_filename = "Book1.xlsx"
 
-    """modify the list as appropriate"""
-    sheet_name = ['product1']
 
-  
-    for sheet in sheet_name:
-        print(sheet)
+    if len(sys.argv) == 1:
 
-        cpe_strings = read_packages_from_excel(excel_filename, sheet)
-    
-        for cpe_string in cpe_strings:
-            print(f"CPE String: {cpe_string}")
-            r = nvdlib.searchCVE(cpeName = cpe_string)
+        excel_filename = "Book1.xlsx"
+
+        """modify the list as appropriate"""
+        #sheet_name = ['product1', 'product2', 'product3','product4','product5']
+        sheet_name = ['product8']
+
+        cve_list = []
+
+   
+        for sheet in sheet_name:
+            print(sheet)
+            cpe_strings = read_packages_from_excel(excel_filename, sheet)
+            for cpe_string in cpe_strings:
+                print(f"CPE String: {cpe_string}")
+                r = nvdlib.searchCVE(cpeName = cpe_string)
+                for eachCVE in r:
+                    epss_scores = get_epss_scores(eachCVE.id)
+                    print(eachCVE.id, eachCVE.score, epss_scores[eachCVE.id], eachCVE.url)
+ 
+    else:
+        arguments = sys.argv[1:]
+        for arg in arguments:
+            print ("command args:", arg) 
+            r = nvdlib.searchCVE(arg)
             for eachCVE in r:
                 print(eachCVE.id, eachCVE.score, eachCVE.url)
-
  
