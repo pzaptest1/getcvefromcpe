@@ -107,6 +107,10 @@ def read_packages_from_excel(filename, sheet):
                 vendor = package_name
             vendor = validate_input(str(vendor))
             package_version = row[version_column - 1]
+            if not package_version:
+                print(f"version missing for {vendor} ")
+                continue
+
             package_version = process_nums(str(package_version))
             cpe_string = generate_cpe_string(package_name, vendor, package_version)
             package_data.append(cpe_string)
@@ -145,7 +149,8 @@ if __name__ == "__main__":
         arguments = sys.argv[1:]
         for arg in arguments:
             print ("command args:", arg) 
-            r = nvdlib.searchCVE(arg)
+            r = nvdlib.searchCVE(cpeName = arg)
             for eachCVE in r:
-                print(eachCVE.id, eachCVE.score, eachCVE.url)
- 
+                epss_scores = get_epss_scores(eachCVE.id)
+                print(eachCVE.id, eachCVE.score, epss_scores[eachCVE.id], eachCVE.url)
+  
