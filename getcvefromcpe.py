@@ -45,7 +45,23 @@ def validate_input(input_str):
 
     return input_str
 
+def validate_version_string(s):
+    #pattern = r'^[a-zA-Z0-9]+(\.[a-zA-Z0-9]+)*$'
+    pattern = r'^[a-zA-Z0-9]*\.[a-zA-Z0-9]+(\.[a-zA-Z0-9]+)*$' 
+    return bool(re.match(pattern, s))
 
+        
+def process_nums(input_str):
+    valid_input = []
+    for char in input_str:
+        if validate_version_string(input_str):
+            valid_input.append(char)
+        else:
+            break
+    return ''.join(valid_input)
+
+
+"""
 def process_nums(input_str):
     valid_input = []
     encountered_dot = False 
@@ -58,7 +74,7 @@ def process_nums(input_str):
         else:
             break
     return ''.join(valid_input)
-
+"""
 
 def generate_cpe_string(package_name, vendor, package_version):
     cpe_version = "2.3"  # CPE version
@@ -130,7 +146,7 @@ if __name__ == "__main__":
 
         """modify the list as appropriate"""
         #sheet_name = ['product1', 'product2', 'product3','product4','product5']
-        sheet_name = ['product8']
+        sheet_name = ['product1']
 
         cve_list = []
 
