@@ -89,20 +89,6 @@ def process_nums(input_str):
     return ''.join(valid_input)
 
 
-"""
-def process_nums(input_str):
-    valid_input = []
-    encountered_dot = False 
-    for char in input_str:
-        if char.isdigit() or char.isalpha():
-            valid_input.append(char)
-        elif char == '.' and not encountered_dot:
-            valid_input.append(char)
-            encountered_dot = True
-        else:
-            break
-    return ''.join(valid_input)
-"""
 
 def generate_cpe_string(package_name, vendor, package_version, update_version):
     cpe_version = "2.3"  # CPE version
