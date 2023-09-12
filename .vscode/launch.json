@@ -10,8 +10,13 @@
             "request": "launch",
             "program": "${file}",
             //"args": ["cpe:2.3:a:gnu:gcc:4.8.5:*:*:*:*:*:*:*"],
-            //"args": ["cpe:2.3:a:nodejs:nodejs:6.14.4:*:*:*:*:*:*:*"]
-            //"args": ["cpe:2.3:a:zlib:zlib:1.2.5:*:*:*:*:*:*:*"]
+            //"args": ["cpe:2.3:a:nodejs:nodejs:6.14.4:*:*:*:*:*:*:*"],
+            //"args": ["cpe:2.3:a:zlib:zlib:1.2.5:*:*:*:*:*:*:*"],
+            //"args" : ["cpe:2.3:a:denx:u-boot:2021.04:rc1:*:*:*:*:*:*"],
+            //"args" : ["cpe:2.3:a:denx:u-boot:2022.07:rc2:*:*:*:*:*:*"],
+            //"args" : ["cpe:2.3:a:systemd_project:systemd:251:-:*:*:*:*:*:*"],
+            //"args" : ["cpe:2.3:o:linux:linux_kernel:5.4.234:*:*:*:*:*:*:*"],
+            //"args" : ["cpe:2.3:a:openssl:openssl:1.1.1f:*:*:*:*:*:*:*"],
             "console": "integratedTerminal",
             "justMyCode": true
         }

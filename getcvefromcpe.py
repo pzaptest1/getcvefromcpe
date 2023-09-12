@@ -44,13 +44,41 @@ def validate_input(input_str):
         input_str = input_str.split()[0]
 
     return input_str
-
+"""
 def validate_version_string(s):
     #pattern = r'^[a-zA-Z0-9]+(\.[a-zA-Z0-9]+)*$'
     pattern = r'^[a-zA-Z0-9]*\.[a-zA-Z0-9]+(\.[a-zA-Z0-9]+)*$' 
     return bool(re.match(pattern, s))
+"""
 
-        
+def validate_version_string(s):
+    """
+    Validate input string based on the given formats.
+    
+    Valid formats:
+        1.1.1a
+        2.3a
+        2.3
+        256
+        0.0.0.0
+        2020.1-RC1
+    """
+    # Regular expression patterns for each format
+    patterns = [
+        r'^\d+\.\d+\.\d+[a-zA-Z]$',  # 1.1.1a
+        r'^\d+\.\d+[a-zA-Z]$',      # 2.3a
+        r'^\d+\.\d+$',              # 2.3
+        r'^\d+$',                   # 256
+        r'^\d+\.\d+\.\d+\.\d+$',    # 0.0.0.0
+        r'^\d+\.\d+-RC\d+$',        # 2020.1-RC1
+        r'^\d+\.\d+\.\d+$',         # 5.4.234
+        r'^[a-fA-F0-9]{40}$'        # 40-character hexadecimal 
+    ]
+    
+    return any(re.match(pattern, s) for pattern in patterns)
+
+
+
 def process_nums(input_str):
     valid_input = []
     for char in input_str:
@@ -76,12 +104,12 @@ def process_nums(input_str):
     return ''.join(valid_input)
 """
 
-def generate_cpe_string(package_name, vendor, package_version):
+def generate_cpe_string(package_name, vendor, package_version, update_version):
     cpe_version = "2.3"  # CPE version
     part = "a"  # Part is typically 'a' for applications
     product = package_name
     version = package_version
-    update = "*"
+    update = update_version
     edition = "*"
     language = "*"
     sw_edition = "*"
@@ -94,10 +122,11 @@ def generate_cpe_string(package_name, vendor, package_version):
 
 def read_packages_from_excel(filename, sheet):
     package_data = []
-
+    
     package_column = None
     vendor_column = None
     version_column = None
+    update_column = None
     
     try:
         workbook = openpyxl.load_workbook(filename)
@@ -111,6 +140,8 @@ def read_packages_from_excel(filename, sheet):
                     vendor_column = index + 1
                 elif cell_value == 'Version':
                     version_column = index + 1
+                elif cell_value == 'Update':
+                    update_column = index + 1
                         
         if package_column is None or vendor_column is None or version_column is None:
             raise ValueError("Column headers 'Package', 'Vendor', and 'Version' not found.")
@@ -128,7 +159,12 @@ def read_packages_from_excel(filename, sheet):
                 continue
 
             package_version = process_nums(str(package_version))
-            cpe_string = generate_cpe_string(package_name, vendor, package_version)
+            update_version = row[update_column - 1]
+            if not update_version:
+                update_version = "*"
+            else: 
+                update_version = validate_input(str(update_version))    
+            cpe_string = generate_cpe_string(package_name, vendor, package_version, update_version)
             package_data.append(cpe_string)
                     
     except Exception as e:
@@ -146,7 +182,7 @@ if __name__ == "__main__":
 
         """modify the list as appropriate"""
         #sheet_name = ['product1', 'product2', 'product3','product4','product5']
-        sheet_name = ['product1']
+        sheet_name = ['product9']
 
         cve_list = []
 
