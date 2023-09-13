@@ -1,0 +1,128 @@
+{
+  "packages": {
+    "gzip": {
+      "path": "package/gzip/gzip.mk",
+      "pkg_path": "package/gzip",
+      "infras": [
+        [
+          "host",
+          "autotools"
+        ]
+      ],
+      "license": "GPL-3.0+",
+      "has_license": false,
+      "has_license_files": false,
+      "has_hash": false,
+      "patch_files": [],
+      "warnings": 0,
+      "current_version": "1.12",
+      "url": "http://www.gnu.org/software/gzip/gzip.html",
+      "cpeid": "cpe:2.3:a:gnu:gzip:1.12:*:*:*:*:*:*:*",
+      "cves": [],
+      "ignored_cves": [],
+      "unsure_cves": [],
+      "latest_version": {
+        "status": 2,
+        "version": "1.13",
+        "id": 1290
+      },
+      "status": {
+        "license": [
+          "ok",
+          "found"
+        ],
+        "license-files": [
+          "ok",
+          "found"
+        ],
+        "hash": [
+          "ok",
+          "found"
+        ],
+        "patches": [
+          "ok",
+          "no patches"
+        ],
+        "pkg-check": [
+          "error",
+          "Missing"
+        ],
+        "cpe": [
+          "ok",
+          "verified CPE identifier"
+        ],
+        "url": [
+          "ok",
+          "valid"
+        ],
+        "developers": [
+          "warning",
+          "no developers"
+        ],
+        "version": [
+          "error",
+          "The newer version 1.13 is available upstream"
+        ],
+        "cve": [
+          "ok",
+          "not affected by CVEs"
+        ]
+      },
+      "developers": []
+    }
+    
+  },
+  "stats": {
+    "packages": 100,
+    "license": 86,
+    "license-files": 80,
+    "hash": 84,
+    "rmo-mapping": 79,
+    "version-not-uptodate": 53,
+    "patches": 99,
+    "total-cves": 614,
+    "total-unsure-cves": 127,
+    "pkg-cves": 16,
+    "no-cpe-id": 38,
+    "cpe-id": 62,
+    "version-uptodate": 27,
+    "no-license": 14,
+    "no-license-files": 20,
+    "no-hash": 16,
+    "rmo-no-mapping": 21,
+    "version-unknown": 20,
+    "pkg-unsure-cves": 1,
+    "infra": {
+      "cmake": 2,
+      "autotools": 52,
+      "python": 5,
+      "generic": 30,
+      "kconfig": 2,
+      "meson": 2,
+      "virtual": 7
+    }
+  },
+  "defconfigs": {
+    "olimex_imx233_olinuxino": {
+      "name": "olimex_imx233_olinuxino",
+      "path": "configs/olimex_imx233_olinuxino_defconfig",
+      "developers": [
+        "Francois Perrad <francois.perrad@gadz.org>"
+      ]
+    },
+  },
+  "package_status_checks": [
+    "cve",
+    "developers",
+    "hash",
+    "license",
+    "license-files",
+    "patches",
+    "pkg-check",
+    "url",
+    "version"
+  ],
+  "commit": "d45330969f1e81529a8c45cfc99166b30ade095d",
+  "date": "2023-09-11 16:29:56.763549"
+}
+
