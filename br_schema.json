@@ -109,7 +109,7 @@
       "developers": [
         "Francois Perrad <francois.perrad@gadz.org>"
       ]
-    },
+    }
   },
   "package_status_checks": [
     "cve",
