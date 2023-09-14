@@ -8,7 +8,7 @@ import requests
 def get_cpe_from_buildrt(jfile):
 
     cpe_strings = [] 
-    # Assuming the JSON structure is saved in a file named "data.json"
+    
     with open(jfile, "r") as file:
        data = json.load(file)
 
