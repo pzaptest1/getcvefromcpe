@@ -70,28 +70,12 @@ def validate_input(input_str):
         input_str = input_str.split()[0]
 
     return input_str
-"""
-def validate_version_string(s):
-    #pattern = r'^[a-zA-Z0-9]+(\.[a-zA-Z0-9]+)*$'
-    pattern = r'^[a-zA-Z0-9]*\.[a-zA-Z0-9]+(\.[a-zA-Z0-9]+)*$' 
-    return bool(re.match(pattern, s))
-"""
+
 
 def validate_version_string(s):
-    """
-    Validate input string based on the given formats.
     
-    Valid formats:
-        1.1.1a
-        2.3a
-        2.3
-        256
-        0.0.0.0
-        2020.1-RC1
-    """
     s = re.sub(r'\s+', '', s)  # Remove all whitespace characters from the string
 
-   
     # Regular expression patterns for each format
     patterns = [
         r'^\d+\.\d+\.\d+[a-zA-Z]$',  # 1.1.1a
@@ -209,7 +193,7 @@ if __name__ == "__main__":
 
     if len(sys.argv) == 1:
 
-         
+        #get package information fron buildroot return cves and licence info
         cpe_strings = get_cpe_from_buildrt("pkg-stats.json")
         for cpe_id in cpe_strings:
             print(cpe_id)
@@ -218,6 +202,7 @@ if __name__ == "__main__":
                     epss_scores = get_epss_scores(eachCVE.id)
                     print(eachCVE.id, eachCVE.score, epss_scores[eachCVE.id], eachCVE.url)        
 """
+        #get information from spreadsheet return cves
         excel_filename = "Book1.xlsx"
 
         #modify the list as appropriate
@@ -238,6 +223,7 @@ if __name__ == "__main__":
                     print(eachCVE.id, eachCVE.score, epss_scores[eachCVE.id], eachCVE.url)
  
     else:
+        #get test string from commandline - feed in the specific cpe
         arguments = sys.argv[1:]
         for arg in arguments:
             print ("command args:", arg) 
