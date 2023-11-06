@@ -79,12 +79,13 @@ def validate_version_string(s):
     # Regular expression patterns for each format
     patterns = [
         r'^\d+\.\d+\.\d+[a-zA-Z]$',  # 1.1.1a
-        r'^\d+\.\d+[a-zA-Z]$',      # 2.3a
-        r'^\d+\.\d+$',              # 2.3
-        r'^\d+$',                   # 256
-        r'^\d+\.\d+\.\d+\.\d+$',    # 0.0.0.0
-        r'^\d+\.\d+-RC\d+$',        # 2020.1-RC1
-        r'^\d+\.\d+\.\d+$',         # 5.4.234
+        r'^\d+(\.\d+)*p\d+$',        # 4.2.8p16
+        r'^\d+\.\d+[a-zA-Z]$',       # 2.3a
+        r'^\d+\.\d+$',               # 2.3
+        r'^\d+$',                    # 256
+        r'^\d+\.\d+\.\d+\.\d+$',     # 0.0.0.0
+        r'^\d+\.\d+-RC\d+$',         # 2020.1-RC1
+        r'^\d+\.\d+\.\d+$',          # 5.4.234
         r'^[a-fA-F0-9]{40}$',        # 40-character hexadecimal 
         r'^\d+\.\d+\.\d+-\d{14}-[a-fA-F0-9]+$' # 0.0.0-20200622213623-75b288015ac9
     ]
@@ -194,20 +195,22 @@ if __name__ == "__main__":
     if len(sys.argv) == 1:
 
         #get package information fron buildroot return cves and licence info
-        cpe_strings = get_cpe_from_buildrt("pkg-stats.json")
-        for cpe_id in cpe_strings:
-            print(cpe_id)
-            r = nvdlib.searchCVE(cpeName = cpe_id)
-            for eachCVE in r:
-                    epss_scores = get_epss_scores(eachCVE.id)
-                    print(eachCVE.id, eachCVE.score, epss_scores[eachCVE.id], eachCVE.url)        
-"""
+        # cpe_strings = get_cpe_from_buildrt("pkg-stats.json")
+        # for cpe_id in cpe_strings:
+        #     print(cpe_id)
+        #     r = nvdlib.searchCVE(cpeName = cpe_id)
+        #     for eachCVE in r:
+        #             epss_scores = get_epss_scores(eachCVE.id)
+        #             print(eachCVE.id, eachCVE.score, epss_scores[eachCVE.id], eachCVE.url)        
+    
+
         #get information from spreadsheet return cves
+       
         excel_filename = "Book1.xlsx"
 
         #modify the list as appropriate
         #sheet_name = ['product1', 'product2', 'product3','product4','product5']
-        sheet_name = ['product9']
+        sheet_name = ['client', 'connect']
 
         cve_list = []
 
@@ -232,4 +235,4 @@ if __name__ == "__main__":
                 epss_scores = get_epss_scores(eachCVE.id)
                 print(eachCVE.id, eachCVE.score, epss_scores[eachCVE.id], eachCVE.url)
   
-"""
+
