@@ -1,0 +1,1422 @@
+Package Name: ninja
+license_string: Apache-2.0
+Current Version: 1.11.1.g95dee.kitware.jobserver-1
+Package Name: mpfr
+license_string: LGPL-3.0+
+Current Version: 4.1.1
+Package Name: meson
+license_string: Apache-2.0
+Current Version: 1.0.0
+Package Name: swig
+license_string: GPL-3.0+, BSD-2-Clause, BSD-3-Clause
+Current Version: 4.1.1
+Package Name: libtool
+license_string: LGPL-2.1+
+Current Version: 2.4.6
+Package Name: automake
+license_string: GPL-2.0+
+Current Version: 1.16.5
+Package Name: uboot-tools
+license_string: GPL-2.0+
+Current Version: 2021.07
+Package Name: libxml2
+license_string: MIT
+Current Version: 2.10.3
+Package Name: pkgconf
+license_string: pkgconf license
+Current Version: 1.6.3
+Package Name: dbus
+license_string: AFL-2.1 or GPL-2.0+ (library, tools), GPL-2.0+ (tools)
+Current Version: 1.12.24
+Package Name: setools
+license_string: GPL-2.0+, LGPL-2.1+
+Current Version: 4.4.0
+Package Name: cryptodev-linux
+license_string: GPL-2.0+
+Current Version: 1.12
+Package Name: python-cython
+license_string: Apache-2.0
+Current Version: 0.29.33
+Package Name: iptables
+license_string: GPL-2.0
+Current Version: 1.8.9
+Package Name: libcap-ng
+license_string: GPL-2.0+ (programs), LGPL-2.1+ (library)
+Current Version: 0.8.3
+Package Name: autoconf-archive
+license_string: GPL-3.0+ with exception
+Current Version: 2022.09.03
+Package Name: python3
+license_string: Python-2.0, others
+Current Version: 3.11.2
+Package Name: libsemanage
+license_string: LGPL-2.1+
+Current Version: 3.3
+Package Name: urandom-scripts
+license_string: None
+Current Version: 
+Package Name: strace
+license_string: LGPL-2.1+
+Current Version: 6.1
+Package Name: libzlib
+license_string: Zlib
+Current Version: 1.2.13
+Package Name: python-networkx
+license_string: BSD-3-Clause
+Current Version: 3.0
+Package Name: libseccomp
+license_string: LGPL-2.1
+Current Version: 2.5.4
+Package Name: pcre
+license_string: BSD-3-Clause
+Current Version: 8.45
+Package Name: busybox
+license_string: GPL-2.0, bzip2-1.0.4
+Current Version: 1.36.0
+Package Name: libglib2
+license_string: LGPL-2.1+
+Current Version: 2.72.3
+Package Name: libcap
+license_string: GPL-2.0 or BSD-3-Clause
+Current Version: 2.65
+Package Name: libfuse
+license_string: GPL-2.0, LGPL-2.1
+Current Version: 2.9.9
+Package Name: lrzsz
+license_string: GPL-2.0+
+Current Version: 0.12.20
+Package Name: kmod
+license_string: LGPL-2.1+ (library) , GPL-2.0+ (tools)
+Current Version: 30
+Package Name: gzip
+license_string: GPL-3.0+
+Current Version: 1.12
+Package Name: xz
+license_string: Public Domain, GPL-2.0+, GPL-3.0+, LGPL-2.1+
+Current Version: 5.2.10
+Package Name: getent
+license_string: LGPL-2.1+
+Current Version: 
+Package Name: makedevs
+license_string: GPL-2.0
+Current Version: 
+Package Name: lxc
+license_string: GPL-2.0 (some tools), LGPL-2.1+
+Current Version: 5.0.2
+Package Name: i2c-tools
+license_string: GPL-2.0+, GPL-2.0 (py-smbus), LGPL-2.1+ (libi2c)
+Current Version: 4.3
+Package Name: skeleton
+license_string: None
+Current Version: 
+Package Name: initscripts
+license_string: None
+Current Version: 
+Package Name: fakedate
+license_string: GPL-2.0+
+Current Version: 
+Package Name: procps-ng
+license_string: GPL-2.0+, LGPL-2.0+ (libproc and libps)
+Current Version: 3.3.17
+Package Name: libopenssl
+license_string: Apache-2.0
+Current Version: custom
+Package Name: cryptodev
+license_string: None
+Current Version: 
+Package Name: acl
+license_string: GPL-2.0+ (programs), LGPL-2.1+ (libraries)
+Current Version: 2.3.1
+Package Name: gperf
+license_string: GPL-3.0+
+Current Version: 3.1
+Package Name: skeleton-init-common
+license_string: None
+Current Version: 
+Package Name: musl-fts
+license_string: BSD-3-Clause
+Current Version: 1.2.7
+Package Name: sudo
+license_string: ISC, BSD-3-Clause
+Current Version: 1.9.12p2
+Package Name: cgroupfs-mount
+license_string: GPL-3.0+
+Current Version: 1.4
+Package Name: bison
+license_string: GPL-3.0+
+Current Version: 3.8.2
+Package Name: attr
+license_string: GPL-2.0+ (programs), LGPL-2.1+ (libraries)
+Current Version: 2.5.1
+Package Name: libsepol
+license_string: LGPL-2.1+
+Current Version: 3.3
+Package Name: pciutils
+license_string: GPL-2.0+
+Current Version: 3.8.0
+Package Name: gettext-tiny
+license_string: MIT, GPL-3.0+ (extra gettext)
+Current Version: 0.3.2
+Package Name: semodule-utils
+license_string: GPL-2.0
+Current Version: 3.3
+Package Name: mpc
+license_string: LGPL-3.0+
+Current Version: 1.2.1
+Package Name: libdaemon
+license_string: LGPL-2.1+
+Current Version: 0.14
+Package Name: musl-compat-headers
+license_string: BSD-3-Clause, Public Domain or CC0
+Current Version: 
+Package Name: mtd
+license_string: GPL-2.0
+Current Version: 2.1.5
+Package Name: lzo
+license_string: GPL-2.0+
+Current Version: 2.10
+Package Name: autoconf
+license_string: GPL-3.0+ with exceptions
+Current Version: 2.71
+Package Name: selinux-python
+license_string: GPL-2.0
+Current Version: 3.3
+Package Name: libbacktrace
+license_string: BSD-3C-like
+Current Version: 9b7f216e867916594d81e8b6118f092ac3fcf704
+Package Name: mkpasswd
+license_string: GPL-2.0+
+Current Version: 
+Package Name: policycoreutils
+license_string: GPL-2.0
+Current Version: 3.2
+Package Name: musl
+license_string: MIT
+Current Version: 1.2.3
+Package Name: patchelf
+license_string: GPL-3.0+
+Current Version: 0.13
+Package Name: gettext
+license_string: None
+Current Version: 
+Package Name: bzip2
+license_string: bzip2 license
+Current Version: 1.0.8
+Package Name: flex
+license_string: FLEX
+Current Version: 2.6.4
+Package Name: popt
+license_string: MIT
+Current Version: 1.19
+Package Name: pcre2
+license_string: BSD-3-Clause
+Current Version: 10.42
+Package Name: refpolicy
+license_string: GPL-2.0
+Current Version: 2.20220106
+Package Name: syslog-ng
+license_string: LGPL-2.1+ (syslog-ng core), GPL-2.0+ (modules)
+Current Version: 3.38.1
+Package Name: binutils
+license_string: GPL-3.0+, libiberty LGPL-2.1+
+Current Version: 2.37
+Package Name: ifupdown-scripts
+license_string: None
+Current Version: 
+Package Name: python-setuptools
+license_string: MIT
+Current Version: 65.6.3
+Package Name: openssl
+license_string: None
+Current Version: 
+Package Name: m4
+license_string: GPL-3.0+
+Current Version: 1.4.19
+Package Name: libffi
+license_string: MIT
+Current Version: 3.4.4
+Package Name: cpio
+license_string: GPL-3.0+
+Current Version: 2.13
+Package Name: openssh
+license_string: BSD-3-Clause, BSD-2-Clause, Public Domain
+Current Version: custom
+Package Name: gmp
+license_string: LGPL-3.0+ or GPL-2.0+
+Current Version: 6.2.1
+Package Name: linux-headers
+license_string: GPL-2.0
+Current Version: 5.4.234
+Package Name: util-linux
+license_string: GPL-2.0+, BSD-4-Clause, LGPL-2.1+ (libblkid, libfdisk, libmount), BSD-3-Clause (libuuid), ISC (rfkill)
+Current Version: 2.38
+Package Name: zlib
+license_string: None
+Current Version: 
+Package Name: libselinux
+license_string: Public Domain
+Current Version: 3.3
+Package Name: gcc-initial
+license_string: None
+Current Version: 11.3.0
+Package Name: gcc-final
+license_string: None
+Current Version: 11.3.0
+Package Name: gawk
+license_string: GPL-3.0+
+Current Version: 5.2.0
+Package Name: logrotate
+license_string: GPL-2.0+
+Current Version: 3.20.1
+Package Name: audit
+license_string: GPL-2.0+ (programs), LGPL-2.1+ (libraries)
+Current Version: 3.0.7
+Package Name: checkpolicy
+license_string: GPL-2.0
+Current Version: 3.3
+Package Name: bridge-utils
+license_string: GPL-2.0+
+Current Version: 1.7.1
+Package Name: expat
+license_string: MIT
+Current Version: 2.5.0
+Package Name: skeleton-init-sysv
+license_string: None
+Current Version: 
+Package Name: ncurses
+license_string: MIT with advertising clause
+Current Version: 6.3-20221224
+Package Name: fakeroot
+license_string: GPL-3.0+
+Current Version: 1.30.1
+Package Name: toolchain-buildroot
+license_string: None
+Current Version: 
+Package Name: toolchain
+license_string: None
+Current Version: 
+Package Name: linux
+license_string: GPL-2.0
+Current Version: 5.4.234
+cpe:2.3:a:gnu:mpfr:4.1.1:*:*:*:*:*:*:*
+cpe:2.3:a:gnu:libtool:2.4.6:*:*:*:*:*:*:*
+cpe:2.3:a:gnu:automake:1.16.5:*:*:*:*:*:*:*
+cpe:2.3:a:denx:u-boot:2021.07:*:*:*:*:*:*:*
+CVE-2022-30767 ['V31', 9.8, 'CRITICAL'] {'epss': '0.001550000', 'percentile': '0.512950000'} https://nvd.nist.gov/vuln/detail/CVE-2022-30767
+CVE-2022-34835 ['V31', 9.8, 'CRITICAL'] {'epss': '0.001600000', 'percentile': '0.520640000'} https://nvd.nist.gov/vuln/detail/CVE-2022-34835
+CVE-2022-33103 ['V31', 7.8, 'HIGH'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-33103
+CVE-2022-2347 ['V31', 7.1, 'HIGH'] {'epss': '0.000530000', 'percentile': '0.192940000'} https://nvd.nist.gov/vuln/detail/CVE-2022-2347
+cpe:2.3:a:xmlsoft:libxml2:2.10.3:*:*:*:*:*:*:*
+CVE-2023-28484 ['V31', 6.5, 'MEDIUM'] {'epss': '0.000500000', 'percentile': '0.167920000'} https://nvd.nist.gov/vuln/detail/CVE-2023-28484
+CVE-2023-29469 ['V31', 6.5, 'MEDIUM'] {'epss': '0.000500000', 'percentile': '0.167920000'} https://nvd.nist.gov/vuln/detail/CVE-2023-29469
+cpe:2.3:a:pkgconf:pkgconf:1.6.3:*:*:*:*:*:*:*
+CVE-2023-24056 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000440000', 'percentile': '0.081700000'} https://nvd.nist.gov/vuln/detail/CVE-2023-24056
+cpe:2.3:a:d-bus_project:d-bus:1.12.24:*:*:*:*:*:*:*
+CVE-2023-34969 ['V31', 6.5, 'MEDIUM'] {'epss': '0.000440000', 'percentile': '0.110410000'} https://nvd.nist.gov/vuln/detail/CVE-2023-34969
+cpe:2.3:a:selinuxproject:setools:4.4.0:*:*:*:*:*:*:*
+cpe:2.3:a:cryptodev-linux:cryptodev-linux:1.12:*:*:*:*:*:*:*
+cpe:2.3:a:netfilter:iptables:1.8.9:*:*:*:*:*:*:*
+cpe:2.3:a:libcap-ng_project:libcap-ng:0.8.3:*:*:*:*:*:*:*
+cpe:2.3:a:python:python:3.11.2:*:*:*:*:*:*:*
+CVE-2007-4559 ['V2', 6.8, 'MEDIUM'] {'epss': '0.010280000', 'percentile': '0.820350000'} https://nvd.nist.gov/vuln/detail/CVE-2007-4559
+CVE-2009-2940 ['V2', 7.5, 'HIGH'] {'epss': '0.010600000', 'percentile': '0.823540000'} https://nvd.nist.gov/vuln/detail/CVE-2009-2940
+CVE-2009-3720 ['V2', 5.0, 'MEDIUM'] {'epss': '0.016730000', 'percentile': '0.861080000'} https://nvd.nist.gov/vuln/detail/CVE-2009-3720
+CVE-2020-29396 ['V31', 8.8, 'HIGH'] {'epss': '0.002580000', 'percentile': '0.629180000'} https://nvd.nist.gov/vuln/detail/CVE-2020-29396
+CVE-2021-32052 ['V31', 6.1, 'MEDIUM'] {'epss': '0.001470000', 'percentile': '0.500830000'} https://nvd.nist.gov/vuln/detail/CVE-2021-32052
+CVE-2023-24329 ['V31', 7.5, 'HIGH'] {'epss': '0.000720000', 'percentile': '0.299020000'} https://nvd.nist.gov/vuln/detail/CVE-2023-24329
+CVE-2023-36632 ['V31', 7.5, 'HIGH'] {'epss': '0.000520000', 'percentile': '0.178530000'} https://nvd.nist.gov/vuln/detail/CVE-2023-36632
+CVE-2023-41105 ['V31', 7.5, 'HIGH'] {'epss': '0.000520000', 'percentile': '0.184450000'} https://nvd.nist.gov/vuln/detail/CVE-2023-41105
+CVE-2023-40217 ['V31', 5.3, 'MEDIUM'] {'epss': '0.000460000', 'percentile': '0.139900000'} https://nvd.nist.gov/vuln/detail/CVE-2023-40217
+cpe:2.3:a:selinuxproject:libsemanage:3.3:*:*:*:*:*:*:*
+cpe:2.3:a:strace_project:strace:6.1:*:*:*:*:*:*:*
+cpe:2.3:a:zlib:zlib:1.2.13:*:*:*:*:*:*:*
+cpe:2.3:a:python:networkx:3.0:*:*:*:*:*:*:*
+cpe:2.3:a:libseccomp_project:libseccomp:2.5.4:*:*:*:*:*:*:*
+cpe:2.3:a:pcre:pcre:8.45:*:*:*:*:*:*:*
+cpe:2.3:a:busybox:busybox:1.36.0:*:*:*:*:*:*:*
+cpe:2.3:a:gnome:glib:2.72.3:*:*:*:*:*:*:*
+cpe:2.3:a:libcap_project:libcap:2.65:*:*:*:*:*:*:*
+CVE-2023-2603 ['V31', 7.8, 'HIGH'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2023-2603
+cpe:2.3:a:libfuse_project:libfuse:2.9.9:*:*:*:*:*:*:*
+cpe:2.3:a:lrzsz_project:lrzsz:0.12.20:*:*:*:*:*:*:*
+CVE-2018-10195 ['V31', 7.1, 'HIGH'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2018-10195
+cpe:2.3:a:kernel:kmod:30:*:*:*:*:*:*:*
+cpe:2.3:a:gnu:gzip:1.12:*:*:*:*:*:*:*
+cpe:2.3:a:tukaani:xz:5.2.10:*:*:*:*:*:*:*
+cpe:2.3:a:linuxcontainers:lxc:5.0.2:*:*:*:*:*:*:*
+cpe:2.3:a:i2c-tools_project:i2c-tools:4.3:*:*:*:*:*:*:*
+cpe:2.3:a:procps-ng_project:procps-ng:3.3.17:*:*:*:*:*:*:*
+cpe:2.3:a:openssl:openssl:custom:*:*:*:*:*:*:*
+CVE-2009-1390 ['V2', 6.8, 'MEDIUM'] {'epss': '0.007490000', 'percentile': '0.786960000'} https://nvd.nist.gov/vuln/detail/CVE-2009-1390
+CVE-2009-3765 ['V2', 6.8, 'MEDIUM'] {'epss': '0.000570000', 'percentile': '0.216450000'} https://nvd.nist.gov/vuln/detail/CVE-2009-3765
+CVE-2009-3766 ['V2', 6.8, 'MEDIUM'] {'epss': '0.000840000', 'percentile': '0.349670000'} https://nvd.nist.gov/vuln/detail/CVE-2009-3766
+CVE-2009-3767 ['V2', 4.3, 'MEDIUM'] {'epss': '0.002610000', 'percentile': '0.631310000'} https://nvd.nist.gov/vuln/detail/CVE-2009-3767
+CVE-2019-0190 ['V31', 7.5, 'HIGH'] {'epss': '0.012650000', 'percentile': '0.839980000'} https://nvd.nist.gov/vuln/detail/CVE-2019-0190
+cpe:2.3:a:acl_project:acl:2.3.1:*:*:*:*:*:*:*
+cpe:2.3:a:sudo_project:sudo:1.9.12:p2:*:*:*:*:*:*
+CVE-2023-27320 ['V31', 7.2, 'HIGH'] {'epss': '0.000820000', 'percentile': '0.338940000'} https://nvd.nist.gov/vuln/detail/CVE-2023-27320
+CVE-2023-28486 ['V31', 5.3, 'MEDIUM'] {'epss': '0.000520000', 'percentile': '0.183170000'} https://nvd.nist.gov/vuln/detail/CVE-2023-28486
+CVE-2023-28487 ['V31', 5.3, 'MEDIUM'] {'epss': '0.000520000', 'percentile': '0.183170000'} https://nvd.nist.gov/vuln/detail/CVE-2023-28487
+cpe:2.3:a:cgroupfs-mount_project:cgroupfs-mount:1.4:*:*:*:*:*:*:*
+cpe:2.3:a:gnu:bison:3.8.2:*:*:*:*:*:*:*
+cpe:2.3:a:attr_project:attr:2.5.1:*:*:*:*:*:*:*
+cpe:2.3:a:selinuxproject:libsepol:3.3:*:*:*:*:*:*:*
+cpe:2.3:a:libdaemon_project:libdaemon:0.14:*:*:*:*:*:*:*
+cpe:2.3:a:mtd-utils_project:mtd-utils:2.1.5:*:*:*:*:*:*:*
+cpe:2.3:a:lzo_project:lzo:2.10:*:*:*:*:*:*:*
+cpe:2.3:a:selinuxproject:policycoreutils:3.2:*:*:*:*:*:*:*
+cpe:2.3:a:musl-libc:musl:1.2.3:*:*:*:*:*:*:*
+cpe:2.3:a:bzip:bzip2:1.0.8:*:*:*:*:*:*:*
+cpe:2.3:a:flex_project:flex:2.6.4:*:*:*:*:*:*:*
+CVE-2019-6293 ['V30', 5.5, 'MEDIUM'] {'epss': '0.000860000', 'percentile': '0.356330000'} https://nvd.nist.gov/vuln/detail/CVE-2019-6293
+cpe:2.3:a:popt_project:popt:1.19:*:*:*:*:*:*:*
+cpe:2.3:a:pcre:pcre2:10.42:*:*:*:*:*:*:*
+cpe:2.3:a:selinuxproject:refpolicy:2.20220106:*:*:*:*:*:*:*
+cpe:2.3:a:oneidentity:syslog-ng:3.38.1:*:*:*:*:*:*:*
+cpe:2.3:a:gnu:binutils:2.37:*:*:*:*:*:*:*
+CVE-2021-45078 ['V31', 7.8, 'HIGH'] {'epss': '0.000820000', 'percentile': '0.338320000'} https://nvd.nist.gov/vuln/detail/CVE-2021-45078
+CVE-2022-38533 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000490000', 'percentile': '0.161440000'} https://nvd.nist.gov/vuln/detail/CVE-2022-38533
+CVE-2022-4285 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.124350000'} https://nvd.nist.gov/vuln/detail/CVE-2022-4285
+CVE-2023-1972 ['V31', 6.5, 'MEDIUM'] {'epss': '0.000460000', 'percentile': '0.139900000'} https://nvd.nist.gov/vuln/detail/CVE-2023-1972
+CVE-2021-46174 ['V31', 7.5, 'HIGH'] {'epss': '0.000460000', 'percentile': '0.139900000'} https://nvd.nist.gov/vuln/detail/CVE-2021-46174
+CVE-2022-44840 ['V31', 7.8, 'HIGH'] {'epss': '0.000530000', 'percentile': '0.192940000'} https://nvd.nist.gov/vuln/detail/CVE-2022-44840
+CVE-2022-45703 ['V31', 7.8, 'HIGH'] {'epss': '0.000530000', 'percentile': '0.192940000'} https://nvd.nist.gov/vuln/detail/CVE-2022-45703
+CVE-2022-47007 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000440000', 'percentile': '0.105150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-47007
+CVE-2022-47008 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000440000', 'percentile': '0.105150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-47008
+CVE-2022-47010 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000440000', 'percentile': '0.105150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-47010
+CVE-2022-47011 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000440000', 'percentile': '0.105150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-47011
+CVE-2022-47673 ['V31', 7.8, 'HIGH'] {'epss': '0.000530000', 'percentile': '0.192940000'} https://nvd.nist.gov/vuln/detail/CVE-2022-47673
+CVE-2022-47695 ['V31', 7.8, 'HIGH'] {'epss': '0.000530000', 'percentile': '0.192940000'} https://nvd.nist.gov/vuln/detail/CVE-2022-47695
+CVE-2022-47696 ['V31', 7.8, 'HIGH'] {'epss': '0.000530000', 'percentile': '0.192940000'} https://nvd.nist.gov/vuln/detail/CVE-2022-47696
+CVE-2022-48063 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000440000', 'percentile': '0.105150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-48063
+CVE-2022-48064 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000440000', 'percentile': '0.105150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-48064
+CVE-2022-48065 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000440000', 'percentile': '0.105150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-48065
+cpe:2.3:a:python:setuptools:65.6.3:*:*:*:*:*:*:*
+cpe:2.3:a:libffi_project:libffi:3.4.4:*:*:*:*:*:*:*
+cpe:2.3:a:gnu:cpio:2.13:*:*:*:*:*:*:*
+CVE-2010-4226 ['V2', 5.0, 'MEDIUM'] {'epss': '0.003220000', 'percentile': '0.669490000'} https://nvd.nist.gov/vuln/detail/CVE-2010-4226
+CVE-2021-38185 ['V31', 7.8, 'HIGH'] {'epss': '0.001890000', 'percentile': '0.558590000'} https://nvd.nist.gov/vuln/detail/CVE-2021-38185
+cpe:2.3:a:openbsd:openssh:9.4:p1:*:*:*:*:*:*
+CVE-2007-2768 ['V2', 4.3, 'MEDIUM'] {'epss': '0.001940000', 'percentile': '0.565960000'} https://nvd.nist.gov/vuln/detail/CVE-2007-2768
+CVE-2008-3844 ['V2', 9.3, 'HIGH'] {'epss': '0.013960000', 'percentile': '0.847740000'} https://nvd.nist.gov/vuln/detail/CVE-2008-3844
+cpe:2.3:a:gmplib:gmp:6.2.1:*:*:*:*:*:*:*
+cpe:2.3:a:linux:linux_kernel:5.4.234:*:*:*:*:*:*:*
+cpe:2.3:a:kernel:util-linux:2.38:*:*:*:*:*:*:*
+cpe:2.3:a:selinuxproject:libselinux:3.3:*:*:*:*:*:*:*
+cpe:2.3:a:logrotate_project:logrotate:3.20.1:*:*:*:*:*:*:*
+cpe:2.3:a:linux_audit_project:linux_audit:3.0.7:*:*:*:*:*:*:*
+cpe:2.3:a:kernel:bridge-utils:1.7.1:*:*:*:*:*:*:*
+cpe:2.3:a:libexpat_project:libexpat:2.5.0:*:*:*:*:*:*:*
+cpe:2.3:a:gnu:ncurses:6.3:*:*:*:*:*:*:*
+CVE-2023-29491 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-29491
+cpe:2.3:o:linux:linux_kernel:5.4.234:*:*:*:*:*:*:*
+CVE-2013-5467 ['V2', 7.2, 'HIGH'] {'epss': '0.000610000', 'percentile': '0.239410000'} https://nvd.nist.gov/vuln/detail/CVE-2013-5467
+CVE-2014-0491 ['V2', 10.0, 'HIGH'] {'epss': '0.012930000', 'percentile': '0.841670000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0491
+CVE-2014-0492 ['V2', 10.0, 'HIGH'] {'epss': '0.089760000', 'percentile': '0.938490000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0492
+CVE-2008-5499 ['V2', 9.3, 'HIGH'] {'epss': '0.969570000', 'percentile': '0.996200000'} https://nvd.nist.gov/vuln/detail/CVE-2008-5499
+CVE-2014-3532 ['V2', 2.1, 'LOW'] {'epss': '0.000600000', 'percentile': '0.233710000'} https://nvd.nist.gov/vuln/detail/CVE-2014-3532
+CVE-2014-3534 ['V2', 7.2, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2014-3534
+CVE-2014-0497 ['V2', 10.0, 'HIGH'] {'epss': '0.973990000', 'percentile': '0.998760000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0497
+CVE-2014-0498 ['V2', 10.0, 'HIGH'] {'epss': '0.089560000', 'percentile': '0.938430000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0498
+CVE-2014-0499 ['V2', 7.8, 'HIGH'] {'epss': '0.004310000', 'percentile': '0.713690000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0499
+CVE-2014-0502 ['V2', 10.0, 'HIGH'] {'epss': '0.410040000', 'percentile': '0.968200000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0502
+CVE-2014-0503 ['V2', 6.4, 'MEDIUM'] {'epss': '0.005920000', 'percentile': '0.756710000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0503
+CVE-1999-0656 ['V2', 5.0, 'MEDIUM'] {'epss': '0.004180000', 'percentile': '0.709470000'} https://nvd.nist.gov/vuln/detail/CVE-1999-0656
+CVE-2015-4491 ['V2', 6.8, 'MEDIUM'] {'epss': '0.013640000', 'percentile': '0.846080000'} https://nvd.nist.gov/vuln/detail/CVE-2015-4491
+CVE-2014-4805 ['V2', 2.1, 'LOW'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2014-4805
+CVE-2014-4806 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2014-4806
+CVE-2014-0552 ['V2', 10.0, 'HIGH'] {'epss': '0.024410000', 'percentile': '0.886620000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0552
+CVE-2014-0553 ['V2', 10.0, 'HIGH'] {'epss': '0.030410000', 'percentile': '0.897370000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0553
+CVE-2014-0554 ['V2', 10.0, 'HIGH'] {'epss': '0.449650000', 'percentile': '0.969290000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0554
+CVE-2014-0555 ['V2', 10.0, 'HIGH'] {'epss': '0.024410000', 'percentile': '0.886620000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0555
+CVE-2014-0556 ['V2', 10.0, 'HIGH'] {'epss': '0.973300000', 'percentile': '0.998170000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0556
+CVE-2014-0557 ['V2', 10.0, 'HIGH'] {'epss': '0.417080000', 'percentile': '0.968460000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0557
+CVE-2014-0558 ['V2', 10.0, 'HIGH'] {'epss': '0.061020000', 'percentile': '0.926090000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0558
+CVE-2003-1327 ['V2', 9.3, 'HIGH'] {'epss': '0.004450000', 'percentile': '0.718210000'} https://nvd.nist.gov/vuln/detail/CVE-2003-1327
+CVE-2003-1332 ['V2', 7.5, 'HIGH'] {'epss': '0.017890000', 'percentile': '0.865720000'} https://nvd.nist.gov/vuln/detail/CVE-2003-1332
+CVE-2003-1372 ['V2', 4.3, 'MEDIUM'] {'epss': '0.004810000', 'percentile': '0.729080000'} https://nvd.nist.gov/vuln/detail/CVE-2003-1372
+CVE-2003-1423 ['V2', 5.0, 'MEDIUM'] {'epss': '0.003080000', 'percentile': '0.662270000'} https://nvd.nist.gov/vuln/detail/CVE-2003-1423
+CVE-2003-1428 ['V2', 4.8, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2003-1428
+CVE-2003-1430 ['V2', 5.0, 'MEDIUM'] {'epss': '0.024820000', 'percentile': '0.887560000'} https://nvd.nist.gov/vuln/detail/CVE-2003-1430
+CVE-2003-1454 ['V2', 5.0, 'MEDIUM'] {'epss': '0.003770000', 'percentile': '0.694940000'} https://nvd.nist.gov/vuln/detail/CVE-2003-1454
+CVE-2003-1456 ['V2', 5.0, 'MEDIUM'] {'epss': '0.009080000', 'percentile': '0.808390000'} https://nvd.nist.gov/vuln/detail/CVE-2003-1456
+CVE-2003-1467 ['V2', 4.3, 'MEDIUM'] {'epss': '0.003050000', 'percentile': '0.660530000'} https://nvd.nist.gov/vuln/detail/CVE-2003-1467
+CVE-2014-4671 ['V2', 4.3, 'MEDIUM'] {'epss': '0.015580000', 'percentile': '0.856350000'} https://nvd.nist.gov/vuln/detail/CVE-2014-4671
+CVE-2006-7034 ['V2', 7.5, 'HIGH'] {'epss': '0.002130000', 'percentile': '0.586200000'} https://nvd.nist.gov/vuln/detail/CVE-2006-7034
+CVE-2007-1043 ['V2', 7.5, 'HIGH'] {'epss': '0.092540000', 'percentile': '0.939360000'} https://nvd.nist.gov/vuln/detail/CVE-2007-1043
+CVE-2007-1898 ['V2', 5.8, 'MEDIUM'] {'epss': '0.031280000', 'percentile': '0.898710000'} https://nvd.nist.gov/vuln/detail/CVE-2007-1898
+CVE-2007-1918 ['V2', 5.0, 'MEDIUM'] {'epss': '0.038180000', 'percentile': '0.907560000'} https://nvd.nist.gov/vuln/detail/CVE-2007-1918
+CVE-2007-1945 ['V2', 7.5, 'HIGH'] {'epss': '0.003610000', 'percentile': '0.688470000'} https://nvd.nist.gov/vuln/detail/CVE-2007-1945
+CVE-2007-2191 ['V2', 6.8, 'MEDIUM'] {'epss': '0.332860000', 'percentile': '0.964820000'} https://nvd.nist.gov/vuln/detail/CVE-2007-2191
+CVE-2007-2445 ['V2', 5.0, 'MEDIUM'] {'epss': '0.894600000', 'percentile': '0.983440000'} https://nvd.nist.gov/vuln/detail/CVE-2007-2445
+CVE-2007-2736 ['V2', 10.0, 'HIGH'] {'epss': '0.066790000', 'percentile': '0.929650000'} https://nvd.nist.gov/vuln/detail/CVE-2007-2736
+CVE-2007-3794 ['V2', 10.0, 'HIGH'] {'epss': '0.003730000', 'percentile': '0.693010000'} https://nvd.nist.gov/vuln/detail/CVE-2007-3794
+CVE-2007-4938 ['V2', 7.6, 'HIGH'] {'epss': '0.190010000', 'percentile': '0.956200000'} https://nvd.nist.gov/vuln/detail/CVE-2007-4938
+CVE-2007-4998 ['V2', 6.9, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2007-4998
+CVE-2007-5337 ['V2', 4.3, 'MEDIUM'] {'epss': '0.006170000', 'percentile': '0.761840000'} https://nvd.nist.gov/vuln/detail/CVE-2007-5337
+CVE-2007-6045 ['V2', 10.0, 'HIGH'] {'epss': '0.004490000', 'percentile': '0.719620000'} https://nvd.nist.gov/vuln/detail/CVE-2007-6045
+CVE-2007-6046 ['V2', 7.2, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2007-6046
+CVE-2007-6047 ['V2', 10.0, 'HIGH'] {'epss': '0.002690000', 'percentile': '0.637060000'} https://nvd.nist.gov/vuln/detail/CVE-2007-6047
+CVE-2007-6048 ['V2', 10.0, 'HIGH'] {'epss': '0.005000000', 'percentile': '0.734210000'} https://nvd.nist.gov/vuln/detail/CVE-2007-6048
+CVE-2007-6049 ['V2', 7.2, 'HIGH'] {'epss': '0.000520000', 'percentile': '0.183360000'} https://nvd.nist.gov/vuln/detail/CVE-2007-6049
+CVE-2007-6050 ['V2', 7.2, 'HIGH'] {'epss': '0.000490000', 'percentile': '0.161660000'} https://nvd.nist.gov/vuln/detail/CVE-2007-6050
+CVE-2007-6051 ['V2', 10.0, 'HIGH'] {'epss': '0.003060000', 'percentile': '0.660950000'} https://nvd.nist.gov/vuln/detail/CVE-2007-6051
+CVE-2007-6052 ['V2', 7.8, 'HIGH'] {'epss': '0.004170000', 'percentile': '0.709270000'} https://nvd.nist.gov/vuln/detail/CVE-2007-6052
+CVE-2007-6053 ['V2', 9.3, 'HIGH'] {'epss': '0.003040000', 'percentile': '0.659870000'} https://nvd.nist.gov/vuln/detail/CVE-2007-6053
+CVE-2007-6209 ['V2', 4.6, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2007-6209
+CVE-2007-6232 ['V2', 4.3, 'MEDIUM'] {'epss': '0.001920000', 'percentile': '0.564030000'} https://nvd.nist.gov/vuln/detail/CVE-2007-6232
+CVE-2007-6246 ['V2', 4.4, 'MEDIUM'] {'epss': '0.000440000', 'percentile': '0.082950000'} https://nvd.nist.gov/vuln/detail/CVE-2007-6246
+CVE-2007-6305 ['V2', 4.6, 'MEDIUM'] {'epss': '0.000520000', 'percentile': '0.183360000'} https://nvd.nist.gov/vuln/detail/CVE-2007-6305
+CVE-2007-6482 ['V2', 7.8, 'HIGH'] {'epss': '0.040490000', 'percentile': '0.910140000'} https://nvd.nist.gov/vuln/detail/CVE-2007-6482
+CVE-2007-6514 ['V2', 4.3, 'MEDIUM'] {'epss': '0.006550000', 'percentile': '0.769630000'} https://nvd.nist.gov/vuln/detail/CVE-2007-6514
+CVE-2008-0072 ['V2', 6.8, 'MEDIUM'] {'epss': '0.435100000', 'percentile': '0.968930000'} https://nvd.nist.gov/vuln/detail/CVE-2008-0072
+CVE-2008-0212 ['V2', 7.8, 'HIGH'] {'epss': '0.040250000', 'percentile': '0.909760000'} https://nvd.nist.gov/vuln/detail/CVE-2008-0212
+CVE-2008-0304 ['V2', 7.5, 'HIGH'] {'epss': '0.315540000', 'percentile': '0.964240000'} https://nvd.nist.gov/vuln/detail/CVE-2008-0304
+CVE-2008-1213 ['V2', 4.3, 'MEDIUM'] {'epss': '0.001920000', 'percentile': '0.564030000'} https://nvd.nist.gov/vuln/detail/CVE-2008-1213
+CVE-2008-1214 ['V2', 7.5, 'HIGH'] {'epss': '0.014110000', 'percentile': '0.848640000'} https://nvd.nist.gov/vuln/detail/CVE-2008-1214
+CVE-2008-1286 ['V2', 7.8, 'HIGH'] {'epss': '0.003280000', 'percentile': '0.672570000'} https://nvd.nist.gov/vuln/detail/CVE-2008-1286
+CVE-2008-1810 ['V2', 4.4, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2008-1810
+CVE-2014-2612 ['V2', 4.0, 'MEDIUM'] {'epss': '0.048550000', 'percentile': '0.917720000'} https://nvd.nist.gov/vuln/detail/CVE-2014-2612
+CVE-2014-2613 ['V2', 9.0, 'HIGH'] {'epss': '0.003650000', 'percentile': '0.689880000'} https://nvd.nist.gov/vuln/detail/CVE-2014-2613
+CVE-2008-3389 ['V2', 4.6, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2008-3389
+CVE-2008-3395 ['V2', 5.0, 'MEDIUM'] {'epss': '0.000790000', 'percentile': '0.327490000'} https://nvd.nist.gov/vuln/detail/CVE-2008-3395
+CVE-2008-3579 ['V2', 7.8, 'HIGH'] {'epss': '0.003020000', 'percentile': '0.658630000'} https://nvd.nist.gov/vuln/detail/CVE-2008-3579
+CVE-2008-3671 ['V2', 5.0, 'MEDIUM'] {'epss': '0.002260000', 'percentile': '0.602810000'} https://nvd.nist.gov/vuln/detail/CVE-2008-3671
+CVE-2012-5248 ['V2', 10.0, 'HIGH'] {'epss': '0.019970000', 'percentile': '0.874230000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5248
+CVE-2012-5249 ['V2', 10.0, 'HIGH'] {'epss': '0.019970000', 'percentile': '0.874230000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5249
+CVE-2012-5250 ['V2', 10.0, 'HIGH'] {'epss': '0.019970000', 'percentile': '0.874230000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5250
+CVE-2012-5251 ['V2', 10.0, 'HIGH'] {'epss': '0.019970000', 'percentile': '0.874230000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5251
+CVE-2012-5252 ['V2', 10.0, 'HIGH'] {'epss': '0.172150000', 'percentile': '0.954360000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5252
+CVE-2014-3094 ['V2', 8.5, 'HIGH'] {'epss': '0.013320000', 'percentile': '0.843990000'} https://nvd.nist.gov/vuln/detail/CVE-2014-3094
+CVE-2014-3095 ['V2', 3.5, 'LOW'] {'epss': '0.065370000', 'percentile': '0.928670000'} https://nvd.nist.gov/vuln/detail/CVE-2014-3095
+CVE-2014-0547 ['V2', 10.0, 'HIGH'] {'epss': '0.024410000', 'percentile': '0.886620000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0547
+CVE-2014-0548 ['V2', 7.5, 'HIGH'] {'epss': '0.031150000', 'percentile': '0.898540000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0548
+CVE-2014-0549 ['V2', 10.0, 'HIGH'] {'epss': '0.024410000', 'percentile': '0.886620000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0549
+CVE-2014-0550 ['V2', 10.0, 'HIGH'] {'epss': '0.024410000', 'percentile': '0.886620000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0550
+CVE-2014-0551 ['V2', 10.0, 'HIGH'] {'epss': '0.024410000', 'percentile': '0.886620000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0551
+CVE-2014-0539 ['V2', 7.5, 'HIGH'] {'epss': '0.023040000', 'percentile': '0.883260000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0539
+CVE-2014-0540 ['V2', 10.0, 'HIGH'] {'epss': '0.008980000', 'percentile': '0.807280000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0540
+CVE-2014-0541 ['V2', 10.0, 'HIGH'] {'epss': '0.406920000', 'percentile': '0.968090000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0541
+CVE-2014-0542 ['V2', 10.0, 'HIGH'] {'epss': '0.013540000', 'percentile': '0.845390000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0542
+CVE-2014-0543 ['V2', 10.0, 'HIGH'] {'epss': '0.013540000', 'percentile': '0.845390000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0543
+CVE-2014-0544 ['V2', 10.0, 'HIGH'] {'epss': '0.013540000', 'percentile': '0.845390000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0544
+CVE-2014-0545 ['V2', 10.0, 'HIGH'] {'epss': '0.013540000', 'percentile': '0.845390000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0545
+CVE-2014-0559 ['V2', 10.0, 'HIGH'] {'epss': '0.059960000', 'percentile': '0.925580000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0559
+CVE-2009-0876 ['V2', 6.9, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.076140000'} https://nvd.nist.gov/vuln/detail/CVE-2009-0876
+CVE-2009-1250 ['V2', 7.8, 'HIGH'] {'epss': '0.042880000', 'percentile': '0.912590000'} https://nvd.nist.gov/vuln/detail/CVE-2009-1250
+CVE-2009-1792 ['V2', 9.3, 'HIGH'] {'epss': '0.005540000', 'percentile': '0.747340000'} https://nvd.nist.gov/vuln/detail/CVE-2009-1792
+CVE-2009-3088 ['V2', 7.5, 'HIGH'] {'epss': '0.006090000', 'percentile': '0.760080000'} https://nvd.nist.gov/vuln/detail/CVE-2009-3088
+CVE-2009-3090 ['V2', 5.0, 'MEDIUM'] {'epss': '0.002200000', 'percentile': '0.594910000'} https://nvd.nist.gov/vuln/detail/CVE-2009-3090
+CVE-2009-3875 ['V2', 5.0, 'MEDIUM'] {'epss': '0.006020000', 'percentile': '0.758400000'} https://nvd.nist.gov/vuln/detail/CVE-2009-3875
+CVE-2009-3876 ['V2', 5.0, 'MEDIUM'] {'epss': '0.125220000', 'percentile': '0.947510000'} https://nvd.nist.gov/vuln/detail/CVE-2009-3876
+CVE-2009-3877 ['V2', 5.0, 'MEDIUM'] {'epss': '0.138880000', 'percentile': '0.949650000'} https://nvd.nist.gov/vuln/detail/CVE-2009-3877
+CVE-2009-4664 ['V2', 3.3, 'LOW'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2009-4664
+CVE-2010-0121 ['V2', 10.0, 'HIGH'] {'epss': '0.002630000', 'percentile': '0.632980000'} https://nvd.nist.gov/vuln/detail/CVE-2010-0121
+CVE-2010-0148 ['V2', 7.8, 'HIGH'] {'epss': '0.020900000', 'percentile': '0.877330000'} https://nvd.nist.gov/vuln/detail/CVE-2010-0148
+CVE-2010-0298 ['V2', 6.5, 'MEDIUM'] {'epss': '0.002600000', 'percentile': '0.630580000'} https://nvd.nist.gov/vuln/detail/CVE-2010-0298
+CVE-2010-0312 ['V2', 5.0, 'MEDIUM'] {'epss': '0.002070000', 'percentile': '0.580510000'} https://nvd.nist.gov/vuln/detail/CVE-2010-0312
+CVE-2010-1034 ['V2', 4.6, 'MEDIUM'] {'epss': '0.002890000', 'percentile': '0.650760000'} https://nvd.nist.gov/vuln/detail/CVE-2010-1034
+CVE-2010-1139 ['V2', 7.2, 'HIGH'] {'epss': '0.000470000', 'percentile': '0.143910000'} https://nvd.nist.gov/vuln/detail/CVE-2010-1139
+CVE-2010-1347 ['V2', 7.2, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2010-1347
+CVE-2010-2027 ['V2', 1.9, 'LOW'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2010-2027
+CVE-2010-2217 ['V2', 10.0, 'HIGH'] {'epss': '0.016230000', 'percentile': '0.859290000'} https://nvd.nist.gov/vuln/detail/CVE-2010-2217
+CVE-2010-2218 ['V2', 5.0, 'MEDIUM'] {'epss': '0.001190000', 'percentile': '0.453810000'} https://nvd.nist.gov/vuln/detail/CVE-2010-2218
+CVE-2010-2219 ['V2', 5.0, 'MEDIUM'] {'epss': '0.001190000', 'percentile': '0.453810000'} https://nvd.nist.gov/vuln/detail/CVE-2010-2219
+CVE-2010-2220 ['V2', 5.0, 'MEDIUM'] {'epss': '0.001190000', 'percentile': '0.453810000'} https://nvd.nist.gov/vuln/detail/CVE-2010-2220
+CVE-2010-2221 ['V2', 5.0, 'MEDIUM'] {'epss': '0.593000000', 'percentile': '0.973300000'} https://nvd.nist.gov/vuln/detail/CVE-2010-2221
+CVE-2010-2579 ['V2', 5.0, 'MEDIUM'] {'epss': '0.002010000', 'percentile': '0.574290000'} https://nvd.nist.gov/vuln/detail/CVE-2010-2579
+CVE-2010-2997 ['V2', 9.3, 'HIGH'] {'epss': '0.039520000', 'percentile': '0.909040000'} https://nvd.nist.gov/vuln/detail/CVE-2010-2997
+CVE-2010-2999 ['V2', 9.3, 'HIGH'] {'epss': '0.048990000', 'percentile': '0.918050000'} https://nvd.nist.gov/vuln/detail/CVE-2010-2999
+CVE-2010-3009 ['V2', 9.0, 'HIGH'] {'epss': '0.004570000', 'percentile': '0.722210000'} https://nvd.nist.gov/vuln/detail/CVE-2010-3009
+CVE-2010-3038 ['V2', 10.0, 'HIGH'] {'epss': '0.010600000', 'percentile': '0.823540000'} https://nvd.nist.gov/vuln/detail/CVE-2010-3038
+CVE-2010-3416 ['V31', 9.8, 'CRITICAL'] {'epss': '0.002430000', 'percentile': '0.615740000'} https://nvd.nist.gov/vuln/detail/CVE-2010-3416
+CVE-2010-3654 ['V2', 9.3, 'HIGH'] {'epss': '0.974300000', 'percentile': '0.999000000'} https://nvd.nist.gov/vuln/detail/CVE-2010-3654
+CVE-2010-4111 ['V2', 4.3, 'MEDIUM'] {'epss': '0.001980000', 'percentile': '0.570490000'} https://nvd.nist.gov/vuln/detail/CVE-2010-4111
+CVE-2010-4302 ['V2', 4.9, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2010-4302
+CVE-2010-4303 ['V2', 4.9, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2010-4303
+CVE-2010-4375 ['V2', 9.3, 'HIGH'] {'epss': '0.073140000', 'percentile': '0.932450000'} https://nvd.nist.gov/vuln/detail/CVE-2010-4375
+CVE-2010-4376 ['V2', 9.3, 'HIGH'] {'epss': '0.073140000', 'percentile': '0.932450000'} https://nvd.nist.gov/vuln/detail/CVE-2010-4376
+CVE-2010-4377 ['V2', 9.3, 'HIGH'] {'epss': '0.062310000', 'percentile': '0.926990000'} https://nvd.nist.gov/vuln/detail/CVE-2010-4377
+CVE-2010-4378 ['V2', 9.3, 'HIGH'] {'epss': '0.053880000', 'percentile': '0.921860000'} https://nvd.nist.gov/vuln/detail/CVE-2010-4378
+CVE-2010-4379 ['V2', 9.3, 'HIGH'] {'epss': '0.005520000', 'percentile': '0.747030000'} https://nvd.nist.gov/vuln/detail/CVE-2010-4379
+CVE-2010-4382 ['V2', 9.3, 'HIGH'] {'epss': '0.005520000', 'percentile': '0.747030000'} https://nvd.nist.gov/vuln/detail/CVE-2010-4382
+CVE-2010-4383 ['V2', 9.3, 'HIGH'] {'epss': '0.005520000', 'percentile': '0.747030000'} https://nvd.nist.gov/vuln/detail/CVE-2010-4383
+CVE-2010-4384 ['V2', 9.3, 'HIGH'] {'epss': '0.050890000', 'percentile': '0.919760000'} https://nvd.nist.gov/vuln/detail/CVE-2010-4384
+CVE-2010-4385 ['V2', 9.3, 'HIGH'] {'epss': '0.005660000', 'percentile': '0.750320000'} https://nvd.nist.gov/vuln/detail/CVE-2010-4385
+CVE-2010-4386 ['V2', 9.3, 'HIGH'] {'epss': '0.031250000', 'percentile': '0.898650000'} https://nvd.nist.gov/vuln/detail/CVE-2010-4386
+CVE-2010-4387 ['V2', 9.3, 'HIGH'] {'epss': '0.031800000', 'percentile': '0.899400000'} https://nvd.nist.gov/vuln/detail/CVE-2010-4387
+CVE-2010-4389 ['V2', 9.3, 'HIGH'] {'epss': '0.073140000', 'percentile': '0.932450000'} https://nvd.nist.gov/vuln/detail/CVE-2010-4389
+CVE-2010-4390 ['V2', 9.3, 'HIGH'] {'epss': '0.005520000', 'percentile': '0.747030000'} https://nvd.nist.gov/vuln/detail/CVE-2010-4390
+CVE-2010-4392 ['V2', 9.3, 'HIGH'] {'epss': '0.129580000', 'percentile': '0.948280000'} https://nvd.nist.gov/vuln/detail/CVE-2010-4392
+CVE-2010-4395 ['V2', 9.3, 'HIGH'] {'epss': '0.073140000', 'percentile': '0.932450000'} https://nvd.nist.gov/vuln/detail/CVE-2010-4395
+CVE-2010-4397 ['V2', 9.3, 'HIGH'] {'epss': '0.070990000', 'percentile': '0.931710000'} https://nvd.nist.gov/vuln/detail/CVE-2010-4397
+CVE-2010-4563 ['V2', 5.0, 'MEDIUM'] {'epss': '0.003020000', 'percentile': '0.658630000'} https://nvd.nist.gov/vuln/detail/CVE-2010-4563
+CVE-2010-4773 ['V2', 10.0, 'HIGH'] {'epss': '0.086560000', 'percentile': '0.937240000'} https://nvd.nist.gov/vuln/detail/CVE-2010-4773
+CVE-2010-4785 ['V2', 4.0, 'MEDIUM'] {'epss': '0.001740000', 'percentile': '0.540000000'} https://nvd.nist.gov/vuln/detail/CVE-2010-4785
+CVE-2011-0579 ['V2', 5.0, 'MEDIUM'] {'epss': '0.008550000', 'percentile': '0.801800000'} https://nvd.nist.gov/vuln/detail/CVE-2011-0579
+CVE-2011-0609 ['V2', 9.3, 'HIGH'] {'epss': '0.973120000', 'percentile': '0.998060000'} https://nvd.nist.gov/vuln/detail/CVE-2011-0609
+CVE-2011-0611 ['V2', 9.3, 'HIGH'] {'epss': '0.966450000', 'percentile': '0.994800000'} https://nvd.nist.gov/vuln/detail/CVE-2011-0611
+CVE-2011-0618 ['V2', 9.3, 'HIGH'] {'epss': '0.030050000', 'percentile': '0.896780000'} https://nvd.nist.gov/vuln/detail/CVE-2011-0618
+CVE-2011-0619 ['V2', 9.3, 'HIGH'] {'epss': '0.026030000', 'percentile': '0.889890000'} https://nvd.nist.gov/vuln/detail/CVE-2011-0619
+CVE-2011-0620 ['V2', 9.3, 'HIGH'] {'epss': '0.026030000', 'percentile': '0.889890000'} https://nvd.nist.gov/vuln/detail/CVE-2011-0620
+CVE-2011-0621 ['V2', 9.3, 'HIGH'] {'epss': '0.026030000', 'percentile': '0.889890000'} https://nvd.nist.gov/vuln/detail/CVE-2011-0621
+CVE-2011-0622 ['V2', 9.3, 'HIGH'] {'epss': '0.026030000', 'percentile': '0.889890000'} https://nvd.nist.gov/vuln/detail/CVE-2011-0622
+CVE-2011-0623 ['V2', 9.3, 'HIGH'] {'epss': '0.014570000', 'percentile': '0.850880000'} https://nvd.nist.gov/vuln/detail/CVE-2011-0623
+CVE-2011-0624 ['V2', 9.3, 'HIGH'] {'epss': '0.014570000', 'percentile': '0.850880000'} https://nvd.nist.gov/vuln/detail/CVE-2011-0624
+CVE-2011-0625 ['V2', 9.3, 'HIGH'] {'epss': '0.014570000', 'percentile': '0.850880000'} https://nvd.nist.gov/vuln/detail/CVE-2011-0625
+CVE-2011-0626 ['V2', 9.3, 'HIGH'] {'epss': '0.014570000', 'percentile': '0.850880000'} https://nvd.nist.gov/vuln/detail/CVE-2011-0626
+CVE-2011-0627 ['V2', 9.3, 'HIGH'] {'epss': '0.032180000', 'percentile': '0.899980000'} https://nvd.nist.gov/vuln/detail/CVE-2011-0627
+CVE-2011-0628 ['V2', 9.3, 'HIGH'] {'epss': '0.078850000', 'percentile': '0.934440000'} https://nvd.nist.gov/vuln/detail/CVE-2011-0628
+CVE-2011-1126 ['V2', 6.9, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2011-1126
+CVE-2011-1412 ['V2', 7.5, 'HIGH'] {'epss': '0.008940000', 'percentile': '0.806860000'} https://nvd.nist.gov/vuln/detail/CVE-2011-1412
+CVE-2011-2040 ['V2', 9.3, 'HIGH'] {'epss': '0.045900000', 'percentile': '0.915400000'} https://nvd.nist.gov/vuln/detail/CVE-2011-2040
+CVE-2011-2110 ['V2', 10.0, 'HIGH'] {'epss': '0.971370000', 'percentile': '0.996980000'} https://nvd.nist.gov/vuln/detail/CVE-2011-2110
+CVE-2011-2130 ['V2', 10.0, 'HIGH'] {'epss': '0.021710000', 'percentile': '0.879680000'} https://nvd.nist.gov/vuln/detail/CVE-2011-2130
+CVE-2011-2134 ['V2', 10.0, 'HIGH'] {'epss': '0.021710000', 'percentile': '0.879680000'} https://nvd.nist.gov/vuln/detail/CVE-2011-2134
+CVE-2011-2135 ['V2', 10.0, 'HIGH'] {'epss': '0.020360000', 'percentile': '0.875560000'} https://nvd.nist.gov/vuln/detail/CVE-2011-2135
+CVE-2011-2136 ['V2', 10.0, 'HIGH'] {'epss': '0.046260000', 'percentile': '0.915670000'} https://nvd.nist.gov/vuln/detail/CVE-2011-2136
+CVE-2011-2137 ['V2', 10.0, 'HIGH'] {'epss': '0.021710000', 'percentile': '0.879680000'} https://nvd.nist.gov/vuln/detail/CVE-2011-2137
+CVE-2011-2138 ['V2', 10.0, 'HIGH'] {'epss': '0.055110000', 'percentile': '0.922920000'} https://nvd.nist.gov/vuln/detail/CVE-2011-2138
+CVE-2011-2139 ['V2', 6.4, 'MEDIUM'] {'epss': '0.007760000', 'percentile': '0.791590000'} https://nvd.nist.gov/vuln/detail/CVE-2011-2139
+CVE-2011-2140 ['V2', 10.0, 'HIGH'] {'epss': '0.867230000', 'percentile': '0.981750000'} https://nvd.nist.gov/vuln/detail/CVE-2011-2140
+CVE-2011-2414 ['V2', 10.0, 'HIGH'] {'epss': '0.026470000', 'percentile': '0.890690000'} https://nvd.nist.gov/vuln/detail/CVE-2011-2414
+CVE-2011-2415 ['V2', 10.0, 'HIGH'] {'epss': '0.026470000', 'percentile': '0.890690000'} https://nvd.nist.gov/vuln/detail/CVE-2011-2415
+CVE-2011-2416 ['V2', 10.0, 'HIGH'] {'epss': '0.046260000', 'percentile': '0.915670000'} https://nvd.nist.gov/vuln/detail/CVE-2011-2416
+CVE-2011-2417 ['V2', 10.0, 'HIGH'] {'epss': '0.024840000', 'percentile': '0.887580000'} https://nvd.nist.gov/vuln/detail/CVE-2011-2417
+CVE-2011-2424 ['V2', 9.3, 'HIGH'] {'epss': '0.208400000', 'percentile': '0.957840000'} https://nvd.nist.gov/vuln/detail/CVE-2011-2424
+CVE-2011-2425 ['V2', 10.0, 'HIGH'] {'epss': '0.024840000', 'percentile': '0.887580000'} https://nvd.nist.gov/vuln/detail/CVE-2011-2425
+CVE-2011-2426 ['V2', 9.3, 'HIGH'] {'epss': '0.084680000', 'percentile': '0.936430000'} https://nvd.nist.gov/vuln/detail/CVE-2011-2426
+CVE-2011-2427 ['V2', 9.3, 'HIGH'] {'epss': '0.016580000', 'percentile': '0.860560000'} https://nvd.nist.gov/vuln/detail/CVE-2011-2427
+CVE-2011-2428 ['V2', 9.3, 'HIGH'] {'epss': '0.010980000', 'percentile': '0.826680000'} https://nvd.nist.gov/vuln/detail/CVE-2011-2428
+CVE-2011-2429 ['V2', 5.0, 'MEDIUM'] {'epss': '0.003790000', 'percentile': '0.695550000'} https://nvd.nist.gov/vuln/detail/CVE-2011-2429
+CVE-2011-2430 ['V2', 9.3, 'HIGH'] {'epss': '0.039350000', 'percentile': '0.908920000'} https://nvd.nist.gov/vuln/detail/CVE-2011-2430
+CVE-2011-2444 ['V2', 4.3, 'MEDIUM'] {'epss': '0.002380000', 'percentile': '0.612420000'} https://nvd.nist.gov/vuln/detail/CVE-2011-2444
+CVE-2011-2837 ['V2', 7.5, 'HIGH'] {'epss': '0.006880000', 'percentile': '0.776630000'} https://nvd.nist.gov/vuln/detail/CVE-2011-2837
+CVE-2011-2887 ['V2', 4.3, 'MEDIUM'] {'epss': '0.033230000', 'percentile': '0.901370000'} https://nvd.nist.gov/vuln/detail/CVE-2011-2887
+CVE-2011-3109 ['V2', 7.5, 'HIGH'] {'epss': '0.016170000', 'percentile': '0.859020000'} https://nvd.nist.gov/vuln/detail/CVE-2011-3109
+CVE-2011-3123 ['V2', 7.2, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2011-3123
+CVE-2011-3124 ['V2', 7.2, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2011-3124
+CVE-2011-4160 ['V2', 3.2, 'LOW'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2011-4160
+CVE-2011-4194 ['V2', 7.5, 'HIGH'] {'epss': '0.938580000', 'percentile': '0.988140000'} https://nvd.nist.gov/vuln/detail/CVE-2011-4194
+CVE-2012-0450 ['V2', 2.1, 'LOW'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2012-0450
+CVE-2012-0711 ['V2', 7.5, 'HIGH'] {'epss': '0.098270000', 'percentile': '0.941130000'} https://nvd.nist.gov/vuln/detail/CVE-2012-0711
+CVE-2012-0713 ['V2', 3.5, 'LOW'] {'epss': '0.001070000', 'percentile': '0.427840000'} https://nvd.nist.gov/vuln/detail/CVE-2012-0713
+CVE-2012-0768 ['V2', 10.0, 'HIGH'] {'epss': '0.016220000', 'percentile': '0.859250000'} https://nvd.nist.gov/vuln/detail/CVE-2012-0768
+CVE-2012-0769 ['V2', 5.0, 'MEDIUM'] {'epss': '0.004420000', 'percentile': '0.717500000'} https://nvd.nist.gov/vuln/detail/CVE-2012-0769
+CVE-2012-1535 ['V2', 9.3, 'HIGH'] {'epss': '0.917570000', 'percentile': '0.985450000'} https://nvd.nist.gov/vuln/detail/CVE-2012-1535
+CVE-2012-1796 ['V2', 7.2, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2012-1796
+CVE-2012-2012 ['V2', 10.0, 'HIGH'] {'epss': '0.007140000', 'percentile': '0.781380000'} https://nvd.nist.gov/vuln/detail/CVE-2012-2012
+CVE-2012-2013 ['V2', 7.5, 'HIGH'] {'epss': '0.007140000', 'percentile': '0.781380000'} https://nvd.nist.gov/vuln/detail/CVE-2012-2013
+CVE-2012-2014 ['V2', 9.0, 'HIGH'] {'epss': '0.002670000', 'percentile': '0.636000000'} https://nvd.nist.gov/vuln/detail/CVE-2012-2014
+CVE-2012-2015 ['V2', 9.0, 'HIGH'] {'epss': '0.002150000', 'percentile': '0.589410000'} https://nvd.nist.gov/vuln/detail/CVE-2012-2015
+CVE-2012-2016 ['V2', 4.9, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2012-2016
+CVE-2012-2493 ['V2', 9.3, 'HIGH'] {'epss': '0.042270000', 'percentile': '0.911880000'} https://nvd.nist.gov/vuln/detail/CVE-2012-2493
+CVE-2012-2846 ['V2', 5.0, 'MEDIUM'] {'epss': '0.001310000', 'percentile': '0.474880000'} https://nvd.nist.gov/vuln/detail/CVE-2012-2846
+CVE-2012-2847 ['V2', 4.3, 'MEDIUM'] {'epss': '0.003550000', 'percentile': '0.685580000'} https://nvd.nist.gov/vuln/detail/CVE-2012-2847
+CVE-2012-2848 ['V2', 4.3, 'MEDIUM'] {'epss': '0.001520000', 'percentile': '0.508000000'} https://nvd.nist.gov/vuln/detail/CVE-2012-2848
+CVE-2012-2849 ['V2', 4.3, 'MEDIUM'] {'epss': '0.003530000', 'percentile': '0.684690000'} https://nvd.nist.gov/vuln/detail/CVE-2012-2849
+CVE-2012-2850 ['V2', 6.8, 'MEDIUM'] {'epss': '0.013300000', 'percentile': '0.843900000'} https://nvd.nist.gov/vuln/detail/CVE-2012-2850
+CVE-2012-2851 ['V2', 6.8, 'MEDIUM'] {'epss': '0.009200000', 'percentile': '0.809590000'} https://nvd.nist.gov/vuln/detail/CVE-2012-2851
+CVE-2012-2852 ['V2', 6.8, 'MEDIUM'] {'epss': '0.003280000', 'percentile': '0.672590000'} https://nvd.nist.gov/vuln/detail/CVE-2012-2852
+CVE-2012-2853 ['V2', 6.8, 'MEDIUM'] {'epss': '0.003450000', 'percentile': '0.681230000'} https://nvd.nist.gov/vuln/detail/CVE-2012-2853
+CVE-2012-2854 ['V2', 5.0, 'MEDIUM'] {'epss': '0.002020000', 'percentile': '0.574950000'} https://nvd.nist.gov/vuln/detail/CVE-2012-2854
+CVE-2012-2855 ['V2', 6.8, 'MEDIUM'] {'epss': '0.003280000', 'percentile': '0.672590000'} https://nvd.nist.gov/vuln/detail/CVE-2012-2855
+CVE-2012-2856 ['V2', 7.5, 'HIGH'] {'epss': '0.003810000', 'percentile': '0.696270000'} https://nvd.nist.gov/vuln/detail/CVE-2012-2856
+CVE-2012-2857 ['V2', 6.8, 'MEDIUM'] {'epss': '0.018490000', 'percentile': '0.868750000'} https://nvd.nist.gov/vuln/detail/CVE-2012-2857
+CVE-2012-2858 ['V2', 6.8, 'MEDIUM'] {'epss': '0.004120000', 'percentile': '0.707470000'} https://nvd.nist.gov/vuln/detail/CVE-2012-2858
+CVE-2012-2859 ['V2', 7.5, 'HIGH'] {'epss': '0.001500000', 'percentile': '0.504400000'} https://nvd.nist.gov/vuln/detail/CVE-2012-2859
+CVE-2012-2860 ['V2', 6.8, 'MEDIUM'] {'epss': '0.003450000', 'percentile': '0.681230000'} https://nvd.nist.gov/vuln/detail/CVE-2012-2860
+CVE-2012-3094 ['V2', 5.0, 'MEDIUM'] {'epss': '0.002100000', 'percentile': '0.583320000'} https://nvd.nist.gov/vuln/detail/CVE-2012-3094
+CVE-2012-3151 ['V2', 3.3, 'LOW'] {'epss': '0.002110000', 'percentile': '0.583870000'} https://nvd.nist.gov/vuln/detail/CVE-2012-3151
+CVE-2012-3329 ['V2', 3.3, 'LOW'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2012-3329
+CVE-2012-3967 ['V2', 9.3, 'HIGH'] {'epss': '0.008850000', 'percentile': '0.805530000'} https://nvd.nist.gov/vuln/detail/CVE-2012-3967
+CVE-2012-4142 ['V2', 4.3, 'MEDIUM'] {'epss': '0.003490000', 'percentile': '0.683190000'} https://nvd.nist.gov/vuln/detail/CVE-2012-4142
+CVE-2012-4143 ['V2', 6.8, 'MEDIUM'] {'epss': '0.010630000', 'percentile': '0.823900000'} https://nvd.nist.gov/vuln/detail/CVE-2012-4143
+CVE-2012-4144 ['V2', 4.3, 'MEDIUM'] {'epss': '0.002920000', 'percentile': '0.653140000'} https://nvd.nist.gov/vuln/detail/CVE-2012-4144
+CVE-2012-4145 ['V2', 10.0, 'HIGH'] {'epss': '0.003080000', 'percentile': '0.662130000'} https://nvd.nist.gov/vuln/detail/CVE-2012-4145
+CVE-2012-4171 ['V2', 5.0, 'MEDIUM'] {'epss': '0.001700000', 'percentile': '0.535380000'} https://nvd.nist.gov/vuln/detail/CVE-2012-4171
+CVE-2012-4363 ['V2', 9.3, 'HIGH'] {'epss': '0.046430000', 'percentile': '0.915920000'} https://nvd.nist.gov/vuln/detail/CVE-2012-4363
+CVE-2012-5128 ['V2', 7.5, 'HIGH'] {'epss': '0.006220000', 'percentile': '0.762860000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5128
+CVE-2012-5253 ['V2', 10.0, 'HIGH'] {'epss': '0.019970000', 'percentile': '0.874230000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5253
+CVE-2012-5254 ['V2', 10.0, 'HIGH'] {'epss': '0.019970000', 'percentile': '0.874230000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5254
+CVE-2012-5255 ['V2', 10.0, 'HIGH'] {'epss': '0.019970000', 'percentile': '0.874230000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5255
+CVE-2012-5256 ['V2', 10.0, 'HIGH'] {'epss': '0.172150000', 'percentile': '0.954360000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5256
+CVE-2012-5257 ['V2', 10.0, 'HIGH'] {'epss': '0.019970000', 'percentile': '0.874230000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5257
+CVE-2012-5258 ['V2', 10.0, 'HIGH'] {'epss': '0.172150000', 'percentile': '0.954360000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5258
+CVE-2012-5259 ['V2', 10.0, 'HIGH'] {'epss': '0.019970000', 'percentile': '0.874230000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5259
+CVE-2012-5260 ['V2', 10.0, 'HIGH'] {'epss': '0.019970000', 'percentile': '0.874230000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5260
+CVE-2012-5261 ['V2', 10.0, 'HIGH'] {'epss': '0.172150000', 'percentile': '0.954360000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5261
+CVE-2012-5262 ['V2', 10.0, 'HIGH'] {'epss': '0.019970000', 'percentile': '0.874230000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5262
+CVE-2012-5263 ['V2', 10.0, 'HIGH'] {'epss': '0.172150000', 'percentile': '0.954360000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5263
+CVE-2012-5264 ['V2', 10.0, 'HIGH'] {'epss': '0.019970000', 'percentile': '0.874230000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5264
+CVE-2012-5265 ['V2', 10.0, 'HIGH'] {'epss': '0.019970000', 'percentile': '0.874230000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5265
+CVE-2012-5266 ['V2', 10.0, 'HIGH'] {'epss': '0.019970000', 'percentile': '0.874230000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5266
+CVE-2012-5267 ['V2', 10.0, 'HIGH'] {'epss': '0.172150000', 'percentile': '0.954360000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5267
+CVE-2012-5268 ['V2', 10.0, 'HIGH'] {'epss': '0.172150000', 'percentile': '0.954360000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5268
+CVE-2012-5269 ['V2', 10.0, 'HIGH'] {'epss': '0.172150000', 'percentile': '0.954360000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5269
+CVE-2012-5270 ['V2', 10.0, 'HIGH'] {'epss': '0.062890000', 'percentile': '0.927320000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5270
+CVE-2012-5271 ['V2', 10.0, 'HIGH'] {'epss': '0.172150000', 'percentile': '0.954360000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5271
+CVE-2012-5272 ['V2', 10.0, 'HIGH'] {'epss': '0.095530000', 'percentile': '0.940240000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5272
+CVE-2012-5286 ['V2', 10.0, 'HIGH'] {'epss': '0.019970000', 'percentile': '0.874230000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5286
+CVE-2012-5287 ['V2', 10.0, 'HIGH'] {'epss': '0.019970000', 'percentile': '0.874230000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5287
+CVE-2012-5975 ['V2', 9.3, 'HIGH'] {'epss': '0.474460000', 'percentile': '0.969980000'} https://nvd.nist.gov/vuln/detail/CVE-2012-5975
+CVE-2012-6392 ['V2', 10.0, 'HIGH'] {'epss': '0.239790000', 'percentile': '0.960030000'} https://nvd.nist.gov/vuln/detail/CVE-2012-6392
+CVE-2013-0630 ['V2', 10.0, 'HIGH'] {'epss': '0.027880000', 'percentile': '0.893490000'} https://nvd.nist.gov/vuln/detail/CVE-2013-0630
+CVE-2013-0646 ['V2', 10.0, 'HIGH'] {'epss': '0.016270000', 'percentile': '0.859420000'} https://nvd.nist.gov/vuln/detail/CVE-2013-0646
+CVE-2013-0650 ['V2', 10.0, 'HIGH'] {'epss': '0.018410000', 'percentile': '0.868400000'} https://nvd.nist.gov/vuln/detail/CVE-2013-0650
+CVE-2013-0838 ['V2', 7.5, 'HIGH'] {'epss': '0.001850000', 'percentile': '0.552050000'} https://nvd.nist.gov/vuln/detail/CVE-2013-0838
+CVE-2013-0919 ['V2', 7.5, 'HIGH'] {'epss': '0.001340000', 'percentile': '0.479350000'} https://nvd.nist.gov/vuln/detail/CVE-2013-0919
+CVE-2013-1371 ['V2', 10.0, 'HIGH'] {'epss': '0.023580000', 'percentile': '0.884500000'} https://nvd.nist.gov/vuln/detail/CVE-2013-1371
+CVE-2013-1375 ['V2', 10.0, 'HIGH'] {'epss': '0.016270000', 'percentile': '0.859420000'} https://nvd.nist.gov/vuln/detail/CVE-2013-1375
+CVE-2013-1378 ['V2', 10.0, 'HIGH'] {'epss': '0.027150000', 'percentile': '0.892080000'} https://nvd.nist.gov/vuln/detail/CVE-2013-1378
+CVE-2013-1379 ['V2', 10.0, 'HIGH'] {'epss': '0.034130000', 'percentile': '0.902630000'} https://nvd.nist.gov/vuln/detail/CVE-2013-1379
+CVE-2013-1380 ['V2', 10.0, 'HIGH'] {'epss': '0.024570000', 'percentile': '0.886970000'} https://nvd.nist.gov/vuln/detail/CVE-2013-1380
+CVE-2013-2268 ['V2', 7.5, 'HIGH'] {'epss': '0.001200000', 'percentile': '0.454670000'} https://nvd.nist.gov/vuln/detail/CVE-2013-2268
+CVE-2013-2728 ['V2', 10.0, 'HIGH'] {'epss': '0.009330000', 'percentile': '0.811120000'} https://nvd.nist.gov/vuln/detail/CVE-2013-2728
+CVE-2013-2977 ['V2', 6.8, 'MEDIUM'] {'epss': '0.722230000', 'percentile': '0.976550000'} https://nvd.nist.gov/vuln/detail/CVE-2013-2977
+CVE-2013-3324 ['V2', 10.0, 'HIGH'] {'epss': '0.009330000', 'percentile': '0.811120000'} https://nvd.nist.gov/vuln/detail/CVE-2013-3324
+CVE-2013-3325 ['V2', 10.0, 'HIGH'] {'epss': '0.009330000', 'percentile': '0.811120000'} https://nvd.nist.gov/vuln/detail/CVE-2013-3325
+CVE-2013-3326 ['V2', 10.0, 'HIGH'] {'epss': '0.009330000', 'percentile': '0.811120000'} https://nvd.nist.gov/vuln/detail/CVE-2013-3326
+CVE-2013-3327 ['V2', 10.0, 'HIGH'] {'epss': '0.009330000', 'percentile': '0.811120000'} https://nvd.nist.gov/vuln/detail/CVE-2013-3327
+CVE-2013-3328 ['V2', 10.0, 'HIGH'] {'epss': '0.009330000', 'percentile': '0.811120000'} https://nvd.nist.gov/vuln/detail/CVE-2013-3328
+CVE-2013-3329 ['V2', 10.0, 'HIGH'] {'epss': '0.009330000', 'percentile': '0.811120000'} https://nvd.nist.gov/vuln/detail/CVE-2013-3329
+CVE-2013-3330 ['V2', 10.0, 'HIGH'] {'epss': '0.009330000', 'percentile': '0.811120000'} https://nvd.nist.gov/vuln/detail/CVE-2013-3330
+CVE-2013-3331 ['V2', 10.0, 'HIGH'] {'epss': '0.009330000', 'percentile': '0.811120000'} https://nvd.nist.gov/vuln/detail/CVE-2013-3331
+CVE-2013-3332 ['V2', 10.0, 'HIGH'] {'epss': '0.009330000', 'percentile': '0.811120000'} https://nvd.nist.gov/vuln/detail/CVE-2013-3332
+CVE-2013-3333 ['V2', 10.0, 'HIGH'] {'epss': '0.009330000', 'percentile': '0.811120000'} https://nvd.nist.gov/vuln/detail/CVE-2013-3333
+CVE-2013-3334 ['V2', 10.0, 'HIGH'] {'epss': '0.009330000', 'percentile': '0.811120000'} https://nvd.nist.gov/vuln/detail/CVE-2013-3334
+CVE-2013-3335 ['V2', 10.0, 'HIGH'] {'epss': '0.009330000', 'percentile': '0.811120000'} https://nvd.nist.gov/vuln/detail/CVE-2013-3335
+CVE-2013-3344 ['V2', 10.0, 'HIGH'] {'epss': '0.812370000', 'percentile': '0.979280000'} https://nvd.nist.gov/vuln/detail/CVE-2013-3344
+CVE-2013-3345 ['V2', 10.0, 'HIGH'] {'epss': '0.006200000', 'percentile': '0.762590000'} https://nvd.nist.gov/vuln/detail/CVE-2013-3345
+CVE-2013-3347 ['V2', 10.0, 'HIGH'] {'epss': '0.027920000', 'percentile': '0.893540000'} https://nvd.nist.gov/vuln/detail/CVE-2013-3347
+CVE-2013-4669 ['V2', 5.4, 'MEDIUM'] {'epss': '0.000740000', 'percentile': '0.306300000'} https://nvd.nist.gov/vuln/detail/CVE-2013-4669
+CVE-2013-4878 ['V2', 7.5, 'HIGH'] {'epss': '0.218490000', 'percentile': '0.958570000'} https://nvd.nist.gov/vuln/detail/CVE-2013-4878
+CVE-2013-6208 ['V2', 7.2, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2013-6208
+CVE-2013-6886 ['V2', 7.2, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2013-6886
+CVE-2014-0504 ['V2', 5.0, 'MEDIUM'] {'epss': '0.002940000', 'percentile': '0.654470000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0504
+CVE-2014-0507 ['V2', 9.3, 'HIGH'] {'epss': '0.021640000', 'percentile': '0.879450000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0507
+CVE-2014-0508 ['V2', 5.0, 'MEDIUM'] {'epss': '0.006750000', 'percentile': '0.773770000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0508
+CVE-2014-0509 ['V2', 4.3, 'MEDIUM'] {'epss': '0.002650000', 'percentile': '0.635020000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0509
+CVE-2014-0518 ['V2', 7.5, 'HIGH'] {'epss': '0.009690000', 'percentile': '0.814680000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0518
+CVE-2014-0519 ['V2', 7.5, 'HIGH'] {'epss': '0.009690000', 'percentile': '0.814680000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0519
+CVE-2014-0520 ['V2', 7.5, 'HIGH'] {'epss': '0.009690000', 'percentile': '0.814680000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0520
+CVE-2014-0531 ['V2', 4.3, 'MEDIUM'] {'epss': '0.003180000', 'percentile': '0.667520000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0531
+CVE-2014-0532 ['V2', 4.3, 'MEDIUM'] {'epss': '0.003180000', 'percentile': '0.667520000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0532
+CVE-2014-0533 ['V2', 4.3, 'MEDIUM'] {'epss': '0.003180000', 'percentile': '0.667520000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0533
+CVE-2014-0534 ['V2', 7.5, 'HIGH'] {'epss': '0.086570000', 'percentile': '0.937250000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0534
+CVE-2014-0535 ['V2', 7.5, 'HIGH'] {'epss': '0.086570000', 'percentile': '0.937250000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0535
+CVE-2014-0536 ['V2', 10.0, 'HIGH'] {'epss': '0.079400000', 'percentile': '0.934640000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0536
+CVE-2014-0537 ['V2', 7.5, 'HIGH'] {'epss': '0.023040000', 'percentile': '0.883260000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0537
+CVE-2014-0538 ['V2', 10.0, 'HIGH'] {'epss': '0.030410000', 'percentile': '0.897370000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0538
+CVE-2014-1737 ['V2', 7.2, 'HIGH'] {'epss': '0.000440000', 'percentile': '0.081500000'} https://nvd.nist.gov/vuln/detail/CVE-2014-1737
+CVE-2014-3153 ['V2', 7.2, 'HIGH'] {'epss': '0.000520000', 'percentile': '0.183800000'} https://nvd.nist.gov/vuln/detail/CVE-2014-3153
+CVE-2014-5333 ['V2', 4.3, 'MEDIUM'] {'epss': '0.002470000', 'percentile': '0.619430000'} https://nvd.nist.gov/vuln/detail/CVE-2014-5333
+CVE-2014-6154 ['V2', 7.8, 'HIGH'] {'epss': '0.003160000', 'percentile': '0.666130000'} https://nvd.nist.gov/vuln/detail/CVE-2014-6154
+CVE-2014-4813 ['V2', 6.9, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2014-4813
+CVE-2014-0490 ['V2', 7.5, 'HIGH'] {'epss': '0.026550000', 'percentile': '0.890880000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0490
+CVE-2014-0577 ['V2', 10.0, 'HIGH'] {'epss': '0.010310000', 'percentile': '0.820580000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0577
+CVE-2014-0580 ['V2', 10.0, 'HIGH'] {'epss': '0.006400000', 'percentile': '0.766550000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0580
+CVE-2014-0581 ['V2', 10.0, 'HIGH'] {'epss': '0.007060000', 'percentile': '0.780000000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0581
+CVE-2014-0582 ['V2', 10.0, 'HIGH'] {'epss': '0.012740000', 'percentile': '0.840330000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0582
+CVE-2014-0583 ['V2', 7.5, 'HIGH'] {'epss': '0.005640000', 'percentile': '0.749910000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0583
+CVE-2014-0584 ['V2', 10.0, 'HIGH'] {'epss': '0.010310000', 'percentile': '0.820580000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0584
+CVE-2014-0585 ['V2', 10.0, 'HIGH'] {'epss': '0.010310000', 'percentile': '0.820580000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0585
+CVE-2014-0586 ['V2', 10.0, 'HIGH'] {'epss': '0.010310000', 'percentile': '0.820580000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0586
+CVE-2014-0587 ['V2', 10.0, 'HIGH'] {'epss': '0.004870000', 'percentile': '0.730650000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0587
+CVE-2014-0588 ['V2', 10.0, 'HIGH'] {'epss': '0.033340000', 'percentile': '0.901540000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0588
+CVE-2014-0589 ['V2', 10.0, 'HIGH'] {'epss': '0.012740000', 'percentile': '0.840330000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0589
+CVE-2014-0590 ['V2', 10.0, 'HIGH'] {'epss': '0.024960000', 'percentile': '0.887750000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0590
+CVE-2014-0573 ['V2', 10.0, 'HIGH'] {'epss': '0.114610000', 'percentile': '0.945450000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0573
+CVE-2014-0574 ['V2', 10.0, 'HIGH'] {'epss': '0.015380000', 'percentile': '0.855240000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0574
+CVE-2014-0576 ['V2', 10.0, 'HIGH'] {'epss': '0.007060000', 'percentile': '0.780000000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0576
+CVE-2014-8437 ['V2', 5.0, 'MEDIUM'] {'epss': '0.005270000', 'percentile': '0.741040000'} https://nvd.nist.gov/vuln/detail/CVE-2014-8437
+CVE-2014-8438 ['V2', 10.0, 'HIGH'] {'epss': '0.014690000', 'percentile': '0.851480000'} https://nvd.nist.gov/vuln/detail/CVE-2014-8438
+CVE-2014-8439 ['V2', 10.0, 'HIGH'] {'epss': '0.884210000', 'percentile': '0.982800000'} https://nvd.nist.gov/vuln/detail/CVE-2014-8439
+CVE-2014-8440 ['V2', 10.0, 'HIGH'] {'epss': '0.973920000', 'percentile': '0.998710000'} https://nvd.nist.gov/vuln/detail/CVE-2014-8440
+CVE-2014-8441 ['V2', 10.0, 'HIGH'] {'epss': '0.012990000', 'percentile': '0.842110000'} https://nvd.nist.gov/vuln/detail/CVE-2014-8441
+CVE-2014-8442 ['V2', 7.5, 'HIGH'] {'epss': '0.007330000', 'percentile': '0.784820000'} https://nvd.nist.gov/vuln/detail/CVE-2014-8442
+CVE-2014-8443 ['V2', 10.0, 'HIGH'] {'epss': '0.715990000', 'percentile': '0.976470000'} https://nvd.nist.gov/vuln/detail/CVE-2014-8443
+CVE-2011-2729 ['V2', 5.0, 'MEDIUM'] {'epss': '0.002000000', 'percentile': '0.572620000'} https://nvd.nist.gov/vuln/detail/CVE-2011-2729
+CVE-2015-0301 ['V2', 10.0, 'HIGH'] {'epss': '0.020790000', 'percentile': '0.876920000'} https://nvd.nist.gov/vuln/detail/CVE-2015-0301
+CVE-2015-0302 ['V2', 5.0, 'MEDIUM'] {'epss': '0.005620000', 'percentile': '0.749080000'} https://nvd.nist.gov/vuln/detail/CVE-2015-0302
+CVE-2015-0303 ['V2', 10.0, 'HIGH'] {'epss': '0.045900000', 'percentile': '0.915390000'} https://nvd.nist.gov/vuln/detail/CVE-2015-0303
+CVE-2015-0304 ['V2', 10.0, 'HIGH'] {'epss': '0.284520000', 'percentile': '0.962640000'} https://nvd.nist.gov/vuln/detail/CVE-2015-0304
+CVE-2015-0305 ['V2', 9.3, 'HIGH'] {'epss': '0.017970000', 'percentile': '0.866310000'} https://nvd.nist.gov/vuln/detail/CVE-2015-0305
+CVE-2015-0306 ['V2', 10.0, 'HIGH'] {'epss': '0.045900000', 'percentile': '0.915390000'} https://nvd.nist.gov/vuln/detail/CVE-2015-0306
+CVE-2015-0307 ['V2', 8.5, 'HIGH'] {'epss': '0.052790000', 'percentile': '0.920980000'} https://nvd.nist.gov/vuln/detail/CVE-2015-0307
+CVE-2015-0308 ['V2', 10.0, 'HIGH'] {'epss': '0.033960000', 'percentile': '0.902420000'} https://nvd.nist.gov/vuln/detail/CVE-2015-0308
+CVE-2015-0309 ['V2', 10.0, 'HIGH'] {'epss': '0.111480000', 'percentile': '0.944700000'} https://nvd.nist.gov/vuln/detail/CVE-2015-0309
+CVE-2015-1483 ['V2', 7.5, 'HIGH'] {'epss': '0.006940000', 'percentile': '0.777860000'} https://nvd.nist.gov/vuln/detail/CVE-2015-1483
+CVE-2014-0892 ['V2', 5.0, 'MEDIUM'] {'epss': '0.016850000', 'percentile': '0.861490000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0892
+CVE-2014-0515 ['V2', 10.0, 'HIGH'] {'epss': '0.971210000', 'percentile': '0.996880000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0515
+CVE-2014-0516 ['V2', 7.5, 'HIGH'] {'epss': '0.012970000', 'percentile': '0.841980000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0516
+CVE-2014-0517 ['V2', 7.5, 'HIGH'] {'epss': '0.009690000', 'percentile': '0.814680000'} https://nvd.nist.gov/vuln/detail/CVE-2014-0517
+CVE-2015-0813 ['V2', 5.1, 'MEDIUM'] {'epss': '0.043170000', 'percentile': '0.912810000'} https://nvd.nist.gov/vuln/detail/CVE-2015-0813
+CVE-2013-6672 ['V2', 4.3, 'MEDIUM'] {'epss': '0.002020000', 'percentile': '0.575500000'} https://nvd.nist.gov/vuln/detail/CVE-2013-6672
+CVE-2014-9162 ['V2', 10.0, 'HIGH'] {'epss': '0.005260000', 'percentile': '0.740840000'} https://nvd.nist.gov/vuln/detail/CVE-2014-9162
+CVE-2014-9163 ['V2', 10.0, 'HIGH'] {'epss': '0.040950000', 'percentile': '0.910690000'} https://nvd.nist.gov/vuln/detail/CVE-2014-9163
+CVE-2014-9164 ['V2', 10.0, 'HIGH'] {'epss': '0.004870000', 'percentile': '0.730650000'} https://nvd.nist.gov/vuln/detail/CVE-2014-9164
+CVE-2015-1900 ['V2', 7.2, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2015-1900
+CVE-2015-1233 ['V2', 7.5, 'HIGH'] {'epss': '0.056830000', 'percentile': '0.923840000'} https://nvd.nist.gov/vuln/detail/CVE-2015-1233
+CVE-2015-1234 ['V2', 6.8, 'MEDIUM'] {'epss': '0.065990000', 'percentile': '0.929130000'} https://nvd.nist.gov/vuln/detail/CVE-2015-1234
+CVE-2015-3316 ['V2', 4.6, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2015-3316
+CVE-2015-3317 ['V2', 4.6, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2015-3317
+CVE-2015-3318 ['V2', 4.6, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2015-3318
+CVE-2015-5571 ['V2', 4.3, 'MEDIUM'] {'epss': '0.002620000', 'percentile': '0.632520000'} https://nvd.nist.gov/vuln/detail/CVE-2015-5571
+CVE-2015-5574 ['V2', 10.0, 'HIGH'] {'epss': '0.782850000', 'percentile': '0.978460000'} https://nvd.nist.gov/vuln/detail/CVE-2015-5574
+CVE-2015-5576 ['V2', 5.0, 'MEDIUM'] {'epss': '0.070690000', 'percentile': '0.931630000'} https://nvd.nist.gov/vuln/detail/CVE-2015-5576
+CVE-2015-5579 ['V2', 10.0, 'HIGH'] {'epss': '0.105640000', 'percentile': '0.943220000'} https://nvd.nist.gov/vuln/detail/CVE-2015-5579
+CVE-2015-5587 ['V2', 10.0, 'HIGH'] {'epss': '0.858830000', 'percentile': '0.981420000'} https://nvd.nist.gov/vuln/detail/CVE-2015-5587
+CVE-2015-6679 ['V2', 5.0, 'MEDIUM'] {'epss': '0.007010000', 'percentile': '0.779110000'} https://nvd.nist.gov/vuln/detail/CVE-2015-6679
+CVE-2015-4512 ['V2', 6.4, 'MEDIUM'] {'epss': '0.054140000', 'percentile': '0.922120000'} https://nvd.nist.gov/vuln/detail/CVE-2015-4512
+CVE-2015-6306 ['V2', 7.2, 'HIGH'] {'epss': '0.000630000', 'percentile': '0.257220000'} https://nvd.nist.gov/vuln/detail/CVE-2015-6306
+CVE-2015-7869 ['V2', 6.6, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057390000'} https://nvd.nist.gov/vuln/detail/CVE-2015-7869
+CVE-2015-8045 ['V2', 10.0, 'HIGH'] {'epss': '0.025400000', 'percentile': '0.888630000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8045
+CVE-2015-8047 ['V2', 10.0, 'HIGH'] {'epss': '0.025400000', 'percentile': '0.888630000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8047
+CVE-2015-8048 ['V2', 10.0, 'HIGH'] {'epss': '0.904990000', 'percentile': '0.984280000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8048
+CVE-2015-8049 ['V2', 9.3, 'HIGH'] {'epss': '0.047620000', 'percentile': '0.917000000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8049
+CVE-2015-8050 ['V2', 9.3, 'HIGH'] {'epss': '0.047620000', 'percentile': '0.917000000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8050
+CVE-2015-8055 ['V2', 10.0, 'HIGH'] {'epss': '0.564550000', 'percentile': '0.972560000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8055
+CVE-2015-8056 ['V2', 10.0, 'HIGH'] {'epss': '0.564550000', 'percentile': '0.972560000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8056
+CVE-2015-8057 ['V2', 10.0, 'HIGH'] {'epss': '0.564550000', 'percentile': '0.972560000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8057
+CVE-2015-8058 ['V2', 9.3, 'HIGH'] {'epss': '0.537650000', 'percentile': '0.971830000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8058
+CVE-2015-8059 ['V2', 10.0, 'HIGH'] {'epss': '0.564550000', 'percentile': '0.972560000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8059
+CVE-2015-8060 ['V2', 10.0, 'HIGH'] {'epss': '0.025400000', 'percentile': '0.888630000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8060
+CVE-2015-8061 ['V2', 10.0, 'HIGH'] {'epss': '0.564550000', 'percentile': '0.972560000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8061
+CVE-2015-8062 ['V2', 10.0, 'HIGH'] {'epss': '0.564550000', 'percentile': '0.972560000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8062
+CVE-2015-8063 ['V2', 10.0, 'HIGH'] {'epss': '0.564550000', 'percentile': '0.972560000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8063
+CVE-2015-8064 ['V2', 10.0, 'HIGH'] {'epss': '0.564550000', 'percentile': '0.972560000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8064
+CVE-2015-8065 ['V2', 10.0, 'HIGH'] {'epss': '0.564550000', 'percentile': '0.972560000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8065
+CVE-2015-8066 ['V2', 10.0, 'HIGH'] {'epss': '0.564550000', 'percentile': '0.972560000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8066
+CVE-2015-8067 ['V2', 10.0, 'HIGH'] {'epss': '0.564550000', 'percentile': '0.972560000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8067
+CVE-2015-8068 ['V2', 10.0, 'HIGH'] {'epss': '0.564550000', 'percentile': '0.972560000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8068
+CVE-2015-8069 ['V2', 10.0, 'HIGH'] {'epss': '0.564550000', 'percentile': '0.972560000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8069
+CVE-2015-8070 ['V2', 10.0, 'HIGH'] {'epss': '0.564550000', 'percentile': '0.972560000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8070
+CVE-2015-8071 ['V2', 10.0, 'HIGH'] {'epss': '0.564550000', 'percentile': '0.972560000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8071
+CVE-2015-8401 ['V2', 10.0, 'HIGH'] {'epss': '0.564550000', 'percentile': '0.972560000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8401
+CVE-2015-8402 ['V2', 10.0, 'HIGH'] {'epss': '0.564550000', 'percentile': '0.972560000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8402
+CVE-2015-8403 ['V2', 10.0, 'HIGH'] {'epss': '0.564550000', 'percentile': '0.972560000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8403
+CVE-2015-8404 ['V2', 10.0, 'HIGH'] {'epss': '0.564550000', 'percentile': '0.972560000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8404
+CVE-2015-8405 ['V2', 10.0, 'HIGH'] {'epss': '0.284690000', 'percentile': '0.962660000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8405
+CVE-2015-8406 ['V2', 10.0, 'HIGH'] {'epss': '0.564550000', 'percentile': '0.972560000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8406
+CVE-2015-8407 ['V2', 10.0, 'HIGH'] {'epss': '0.042590000', 'percentile': '0.912250000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8407
+CVE-2015-8408 ['V2', 10.0, 'HIGH'] {'epss': '0.025400000', 'percentile': '0.888630000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8408
+CVE-2015-8409 ['V2', 10.0, 'HIGH'] {'epss': '0.439390000', 'percentile': '0.969030000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8409
+CVE-2015-8410 ['V2', 10.0, 'HIGH'] {'epss': '0.904990000', 'percentile': '0.984280000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8410
+CVE-2015-8411 ['V2', 10.0, 'HIGH'] {'epss': '0.904990000', 'percentile': '0.984280000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8411
+CVE-2015-8412 ['V2', 10.0, 'HIGH'] {'epss': '0.904990000', 'percentile': '0.984280000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8412
+CVE-2015-8413 ['V2', 10.0, 'HIGH'] {'epss': '0.904990000', 'percentile': '0.984280000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8413
+CVE-2015-8414 ['V2', 10.0, 'HIGH'] {'epss': '0.564550000', 'percentile': '0.972560000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8414
+CVE-2015-8415 ['V2', 10.0, 'HIGH'] {'epss': '0.063810000', 'percentile': '0.927790000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8415
+CVE-2015-8416 ['V2', 10.0, 'HIGH'] {'epss': '0.056220000', 'percentile': '0.923530000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8416
+CVE-2015-8417 ['V2', 10.0, 'HIGH'] {'epss': '0.046060000', 'percentile': '0.915530000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8417
+CVE-2015-8418 ['V2', 10.0, 'HIGH'] {'epss': '0.046060000', 'percentile': '0.915530000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8418
+CVE-2015-8419 ['V2', 10.0, 'HIGH'] {'epss': '0.046060000', 'percentile': '0.915530000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8419
+CVE-2015-8420 ['V2', 10.0, 'HIGH'] {'epss': '0.870310000', 'percentile': '0.982030000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8420
+CVE-2015-8421 ['V2', 10.0, 'HIGH'] {'epss': '0.870310000', 'percentile': '0.982030000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8421
+CVE-2015-8422 ['V2', 10.0, 'HIGH'] {'epss': '0.870310000', 'percentile': '0.982030000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8422
+CVE-2015-8423 ['V2', 10.0, 'HIGH'] {'epss': '0.870310000', 'percentile': '0.982030000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8423
+CVE-2015-8424 ['V2', 10.0, 'HIGH'] {'epss': '0.870310000', 'percentile': '0.982030000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8424
+CVE-2015-8425 ['V2', 10.0, 'HIGH'] {'epss': '0.870310000', 'percentile': '0.982030000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8425
+CVE-2015-8426 ['V2', 10.0, 'HIGH'] {'epss': '0.870310000', 'percentile': '0.982030000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8426
+CVE-2015-8427 ['V2', 10.0, 'HIGH'] {'epss': '0.870310000', 'percentile': '0.982030000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8427
+CVE-2015-8428 ['V2', 10.0, 'HIGH'] {'epss': '0.870310000', 'percentile': '0.982030000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8428
+CVE-2015-8429 ['V2', 10.0, 'HIGH'] {'epss': '0.870310000', 'percentile': '0.982030000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8429
+CVE-2015-8430 ['V2', 10.0, 'HIGH'] {'epss': '0.870310000', 'percentile': '0.982030000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8430
+CVE-2015-8431 ['V2', 10.0, 'HIGH'] {'epss': '0.870310000', 'percentile': '0.982030000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8431
+CVE-2015-8432 ['V2', 10.0, 'HIGH'] {'epss': '0.046510000', 'percentile': '0.915990000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8432
+CVE-2015-8433 ['V2', 10.0, 'HIGH'] {'epss': '0.046510000', 'percentile': '0.915990000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8433
+CVE-2015-8434 ['V2', 10.0, 'HIGH'] {'epss': '0.870310000', 'percentile': '0.982030000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8434
+CVE-2015-8435 ['V2', 10.0, 'HIGH'] {'epss': '0.046510000', 'percentile': '0.915990000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8435
+CVE-2015-8436 ['V2', 9.3, 'HIGH'] {'epss': '0.022460000', 'percentile': '0.881730000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8436
+CVE-2015-8437 ['V2', 9.3, 'HIGH'] {'epss': '0.022460000', 'percentile': '0.881730000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8437
+CVE-2015-8438 ['V2', 9.3, 'HIGH'] {'epss': '0.033630000', 'percentile': '0.901960000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8438
+CVE-2015-8439 ['V2', 9.3, 'HIGH'] {'epss': '0.018220000', 'percentile': '0.867540000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8439
+CVE-2015-8440 ['V2', 10.0, 'HIGH'] {'epss': '0.054950000', 'percentile': '0.922850000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8440
+CVE-2015-8441 ['V2', 10.0, 'HIGH'] {'epss': '0.046510000', 'percentile': '0.915990000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8441
+CVE-2015-8442 ['V2', 9.3, 'HIGH'] {'epss': '0.022460000', 'percentile': '0.881730000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8442
+CVE-2015-8443 ['V2', 10.0, 'HIGH'] {'epss': '0.046060000', 'percentile': '0.915530000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8443
+CVE-2015-8444 ['V2', 10.0, 'HIGH'] {'epss': '0.029870000', 'percentile': '0.896580000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8444
+CVE-2015-8445 ['V2', 9.3, 'HIGH'] {'epss': '0.057440000', 'percentile': '0.924160000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8445
+CVE-2015-8446 ['V2', 9.3, 'HIGH'] {'epss': '0.922880000', 'percentile': '0.986060000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8446
+CVE-2015-8447 ['V2', 9.3, 'HIGH'] {'epss': '0.022460000', 'percentile': '0.881730000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8447
+CVE-2015-8448 ['V2', 9.3, 'HIGH'] {'epss': '0.022460000', 'percentile': '0.881730000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8448
+CVE-2015-8449 ['V2', 9.3, 'HIGH'] {'epss': '0.022460000', 'percentile': '0.881730000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8449
+CVE-2015-8450 ['V2', 9.3, 'HIGH'] {'epss': '0.022460000', 'percentile': '0.881730000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8450
+CVE-2015-8451 ['V2', 10.0, 'HIGH'] {'epss': '0.046060000', 'percentile': '0.915530000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8451
+CVE-2015-8452 ['V2', 10.0, 'HIGH'] {'epss': '0.046510000', 'percentile': '0.915990000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8452
+CVE-2015-8453 ['V2', 4.3, 'MEDIUM'] {'epss': '0.002780000', 'percentile': '0.643840000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8453
+CVE-2015-8454 ['V2', 10.0, 'HIGH'] {'epss': '0.052190000', 'percentile': '0.920620000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8454
+CVE-2015-8455 ['V2', 10.0, 'HIGH'] {'epss': '0.046060000', 'percentile': '0.915530000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8455
+CVE-2015-8456 ['V2', 9.3, 'HIGH'] {'epss': '0.015060000', 'percentile': '0.853570000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8456
+CVE-2015-8457 ['V2', 10.0, 'HIGH'] {'epss': '0.036360000', 'percentile': '0.905200000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8457
+CVE-2015-8459 ['V30', 10.0, 'CRITICAL'] {'epss': '0.063780000', 'percentile': '0.927770000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8459
+CVE-2015-8460 ['V30', 8.8, 'HIGH'] {'epss': '0.028390000', 'percentile': '0.894340000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8460
+CVE-2015-8634 ['V30', 8.8, 'HIGH'] {'epss': '0.118180000', 'percentile': '0.946310000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8634
+CVE-2015-8635 ['V30', 8.8, 'HIGH'] {'epss': '0.087060000', 'percentile': '0.937370000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8635
+CVE-2015-8636 ['V30', 8.8, 'HIGH'] {'epss': '0.106270000', 'percentile': '0.943440000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8636
+CVE-2015-8638 ['V30', 8.8, 'HIGH'] {'epss': '0.021030000', 'percentile': '0.877640000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8638
+CVE-2015-8639 ['V30', 8.8, 'HIGH'] {'epss': '0.021030000', 'percentile': '0.877640000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8639
+CVE-2015-8640 ['V30', 8.8, 'HIGH'] {'epss': '0.016050000', 'percentile': '0.858550000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8640
+CVE-2015-8641 ['V30', 8.8, 'HIGH'] {'epss': '0.016050000', 'percentile': '0.858550000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8641
+CVE-2015-8642 ['V30', 8.8, 'HIGH'] {'epss': '0.016050000', 'percentile': '0.858550000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8642
+CVE-2015-8643 ['V30', 8.8, 'HIGH'] {'epss': '0.016050000', 'percentile': '0.858550000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8643
+CVE-2015-8644 ['V30', 8.8, 'HIGH'] {'epss': '0.099380000', 'percentile': '0.941460000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8644
+CVE-2015-8645 ['V30', 8.8, 'HIGH'] {'epss': '0.028390000', 'percentile': '0.894340000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8645
+CVE-2015-8646 ['V30', 8.8, 'HIGH'] {'epss': '0.016050000', 'percentile': '0.858550000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8646
+CVE-2015-8647 ['V30', 8.8, 'HIGH'] {'epss': '0.021030000', 'percentile': '0.877640000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8647
+CVE-2015-8648 ['V30', 8.8, 'HIGH'] {'epss': '0.021030000', 'percentile': '0.877640000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8648
+CVE-2015-8649 ['V30', 8.8, 'HIGH'] {'epss': '0.021030000', 'percentile': '0.877640000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8649
+CVE-2015-8650 ['V30', 8.8, 'HIGH'] {'epss': '0.021030000', 'percentile': '0.877640000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8650
+CVE-2015-8651 ['V30', 8.8, 'HIGH'] {'epss': '0.195960000', 'percentile': '0.956800000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8651
+CVE-2016-0955 ['V30', 6.1, 'MEDIUM'] {'epss': '0.002020000', 'percentile': '0.575050000'} https://nvd.nist.gov/vuln/detail/CVE-2016-0955
+CVE-2016-0956 ['V30', 7.5, 'HIGH'] {'epss': '0.038740000', 'percentile': '0.908190000'} https://nvd.nist.gov/vuln/detail/CVE-2016-0956
+CVE-2016-0958 ['V30', 7.5, 'HIGH'] {'epss': '0.003910000', 'percentile': '0.700500000'} https://nvd.nist.gov/vuln/detail/CVE-2016-0958
+CVE-2016-1956 ['V30', 6.5, 'MEDIUM'] {'epss': '0.011960000', 'percentile': '0.834740000'} https://nvd.nist.gov/vuln/detail/CVE-2016-1956
+CVE-2015-2344 ['V30', 5.4, 'MEDIUM'] {'epss': '0.000650000', 'percentile': '0.269610000'} https://nvd.nist.gov/vuln/detail/CVE-2015-2344
+CVE-2016-2075 ['V31', 5.4, 'MEDIUM'] {'epss': '0.000650000', 'percentile': '0.269610000'} https://nvd.nist.gov/vuln/detail/CVE-2016-2075
+CVE-2016-4117 ['V30', 9.8, 'CRITICAL'] {'epss': '0.973260000', 'percentile': '0.998150000'} https://nvd.nist.gov/vuln/detail/CVE-2016-4117
+CVE-2016-4171 ['V31', 9.8, 'CRITICAL'] {'epss': '0.156030000', 'percentile': '0.952350000'} https://nvd.nist.gov/vuln/detail/CVE-2016-4171
+CVE-2016-2839 ['V30', 6.5, 'MEDIUM'] {'epss': '0.021000000', 'percentile': '0.877560000'} https://nvd.nist.gov/vuln/detail/CVE-2016-2839
+CVE-2016-5995 ['V30', 7.3, 'HIGH'] {'epss': '0.000480000', 'percentile': '0.145780000'} https://nvd.nist.gov/vuln/detail/CVE-2016-5995
+CVE-2015-8955 ['V31', 7.3, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2015-8955
+CVE-2016-7389 ['V30', 7.8, 'HIGH'] {'epss': '0.000440000', 'percentile': '0.102780000'} https://nvd.nist.gov/vuln/detail/CVE-2016-7389
+CVE-2016-10086 ['V30', 8.1, 'HIGH'] {'epss': '0.001710000', 'percentile': '0.536120000'} https://nvd.nist.gov/vuln/detail/CVE-2016-10086
+CVE-2016-9795 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2016-9795
+CVE-2016-8961 ['V30', 6.1, 'MEDIUM'] {'epss': '0.000970000', 'percentile': '0.399700000'} https://nvd.nist.gov/vuln/detail/CVE-2016-8961
+CVE-2016-8966 ['V30', 5.9, 'MEDIUM'] {'epss': '0.001360000', 'percentile': '0.483220000'} https://nvd.nist.gov/vuln/detail/CVE-2016-8966
+CVE-2016-8980 ['V30', 8.1, 'HIGH'] {'epss': '0.001330000', 'percentile': '0.477910000'} https://nvd.nist.gov/vuln/detail/CVE-2016-8980
+CVE-2016-8981 ['V30', 5.5, 'MEDIUM'] {'epss': '0.000440000', 'percentile': '0.102780000'} https://nvd.nist.gov/vuln/detail/CVE-2016-8981
+CVE-2016-8967 ['V30', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2016-8967
+CVE-2016-6110 ['V30', 6.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2016-6110
+CVE-2016-8963 ['V30', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2016-8963
+CVE-2016-8977 ['V30', 5.3, 'MEDIUM'] {'epss': '0.000690000', 'percentile': '0.284580000'} https://nvd.nist.gov/vuln/detail/CVE-2016-8977
+CVE-2017-8391 ['V30', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2017-8391
+CVE-2017-8290 ['V30', 7.5, 'HIGH'] {'epss': '0.002400000', 'percentile': '0.613660000'} https://nvd.nist.gov/vuln/detail/CVE-2017-8290
+CVE-2015-5191 ['V30', 6.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2015-5191
+CVE-2018-1000026 ['V30', 7.7, 'HIGH'] {'epss': '0.002550000', 'percentile': '0.627270000'} https://nvd.nist.gov/vuln/detail/CVE-2018-1000026
+CVE-2018-1426 ['V30', 9.1, 'CRITICAL'] {'epss': '0.002850000', 'percentile': '0.647810000'} https://nvd.nist.gov/vuln/detail/CVE-2018-1426
+CVE-2018-1427 ['V30', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2018-1427
+CVE-2018-1449 ['V30', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2018-1449
+CVE-2018-1450 ['V30', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2018-1450
+CVE-2018-1451 ['V30', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2018-1451
+CVE-2018-1452 ['V30', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2018-1452
+CVE-2018-1459 ['V30', 7.8, 'HIGH'] {'epss': '0.000530000', 'percentile': '0.187540000'} https://nvd.nist.gov/vuln/detail/CVE-2018-1459
+CVE-2018-1488 ['V30', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2018-1488
+CVE-2018-1515 ['V30', 7.0, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2018-1515
+CVE-2018-1544 ['V30', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2018-1544
+CVE-2018-1565 ['V30', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2018-1565
+CVE-2017-7836 ['V30', 7.8, 'HIGH'] {'epss': '0.000590000', 'percentile': '0.229910000'} https://nvd.nist.gov/vuln/detail/CVE-2017-7836
+CVE-2018-1458 ['V30', 7.8, 'HIGH'] {'epss': '0.000990000', 'percentile': '0.404010000'} https://nvd.nist.gov/vuln/detail/CVE-2018-1458
+CVE-2018-1487 ['V30', 7.8, 'HIGH'] {'epss': '0.000440000', 'percentile': '0.102780000'} https://nvd.nist.gov/vuln/detail/CVE-2018-1487
+CVE-2018-1566 ['V30', 7.8, 'HIGH'] {'epss': '0.000430000', 'percentile': '0.077230000'} https://nvd.nist.gov/vuln/detail/CVE-2018-1566
+CVE-2018-10878 ['V31', 7.8, 'HIGH'] {'epss': '0.000440000', 'percentile': '0.081500000'} https://nvd.nist.gov/vuln/detail/CVE-2018-10878
+CVE-2018-1781 ['V30', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2018-1781
+CVE-2018-1799 ['V30', 5.5, 'MEDIUM'] {'epss': '0.000440000', 'percentile': '0.081800000'} https://nvd.nist.gov/vuln/detail/CVE-2018-1799
+CVE-2018-1802 ['V30', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2018-1802
+CVE-2019-3819 ['V31', 4.4, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2019-3819
+CVE-2019-3887 ['V31', 5.6, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.122990000'} https://nvd.nist.gov/vuln/detail/CVE-2019-3887
+CVE-2020-8428 ['V31', 7.1, 'HIGH'] {'epss': '0.000440000', 'percentile': '0.081500000'} https://nvd.nist.gov/vuln/detail/CVE-2020-8428
+CVE-2019-3016 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000500000', 'percentile': '0.168400000'} https://nvd.nist.gov/vuln/detail/CVE-2019-3016
+CVE-2020-8647 ['V31', 6.1, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2020-8647
+CVE-2020-8648 ['V31', 7.1, 'HIGH'] {'epss': '0.000760000', 'percentile': '0.312820000'} https://nvd.nist.gov/vuln/detail/CVE-2020-8648
+CVE-2020-8649 ['V31', 5.9, 'MEDIUM'] {'epss': '0.000580000', 'percentile': '0.227420000'} https://nvd.nist.gov/vuln/detail/CVE-2020-8649
+CVE-2020-8992 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2020-8992
+CVE-2020-9383 ['V31', 7.1, 'HIGH'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2020-9383
+CVE-2020-10942 ['V31', 5.3, 'MEDIUM'] {'epss': '0.000620000', 'percentile': '0.247580000'} https://nvd.nist.gov/vuln/detail/CVE-2020-10942
+CVE-2020-11494 ['V31', 4.4, 'MEDIUM'] {'epss': '0.000490000', 'percentile': '0.153340000'} https://nvd.nist.gov/vuln/detail/CVE-2020-11494
+CVE-2020-11565 ['V31', 6.0, 'MEDIUM'] {'epss': '0.000480000', 'percentile': '0.148730000'} https://nvd.nist.gov/vuln/detail/CVE-2020-11565
+CVE-2020-11608 ['V31', 4.3, 'MEDIUM'] {'epss': '0.000460000', 'percentile': '0.140350000'} https://nvd.nist.gov/vuln/detail/CVE-2020-11608
+CVE-2020-11609 ['V31', 4.3, 'MEDIUM'] {'epss': '0.000460000', 'percentile': '0.140350000'} https://nvd.nist.gov/vuln/detail/CVE-2020-11609
+CVE-2020-11668 ['V31', 7.1, 'HIGH'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2020-11668
+CVE-2020-11725 ['V31', 7.8, 'HIGH'] {'epss': '0.000860000', 'percentile': '0.353940000'} https://nvd.nist.gov/vuln/detail/CVE-2020-11725
+CVE-2020-11884 ['V31', 7.0, 'HIGH'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2020-11884
+CVE-2020-12464 ['V31', 6.7, 'MEDIUM'] {'epss': '0.000930000', 'percentile': '0.387250000'} https://nvd.nist.gov/vuln/detail/CVE-2020-12464
+CVE-2020-12465 ['V31', 6.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-12465
+CVE-2020-12654 ['V31', 7.1, 'HIGH'] {'epss': '0.001350000', 'percentile': '0.482740000'} https://nvd.nist.gov/vuln/detail/CVE-2020-12654
+CVE-2020-12653 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-12653
+CVE-2020-12655 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000460000', 'percentile': '0.140350000'} https://nvd.nist.gov/vuln/detail/CVE-2020-12655
+CVE-2020-12656 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2020-12656
+CVE-2020-12657 ['V31', 7.8, 'HIGH'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2020-12657
+CVE-2020-12659 ['V31', 6.7, 'MEDIUM'] {'epss': '0.000800000', 'percentile': '0.331920000'} https://nvd.nist.gov/vuln/detail/CVE-2020-12659
+CVE-2020-10690 ['V31', 6.4, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2020-10690
+CVE-2019-20794 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000690000', 'percentile': '0.285060000'} https://nvd.nist.gov/vuln/detail/CVE-2019-20794
+CVE-2020-12768 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2020-12768
+CVE-2020-12770 ['V31', 6.7, 'MEDIUM'] {'epss': '0.000470000', 'percentile': '0.141600000'} https://nvd.nist.gov/vuln/detail/CVE-2020-12770
+CVE-2020-12771 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000550000', 'percentile': '0.209240000'} https://nvd.nist.gov/vuln/detail/CVE-2020-12771
+CVE-2020-12826 ['V31', 5.3, 'MEDIUM'] {'epss': '0.000520000', 'percentile': '0.180820000'} https://nvd.nist.gov/vuln/detail/CVE-2020-12826
+CVE-2020-12888 ['V31', 5.3, 'MEDIUM'] {'epss': '0.000470000', 'percentile': '0.141600000'} https://nvd.nist.gov/vuln/detail/CVE-2020-12888
+CVE-2020-13143 ['V31', 6.5, 'MEDIUM'] {'epss': '0.006970000', 'percentile': '0.778330000'} https://nvd.nist.gov/vuln/detail/CVE-2020-13143
+CVE-2020-10711 ['V31', 5.9, 'MEDIUM'] {'epss': '0.006020000', 'percentile': '0.758620000'} https://nvd.nist.gov/vuln/detail/CVE-2020-10711
+CVE-2019-20810 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2019-20810
+CVE-2020-10757 ['V31', 7.8, 'HIGH'] {'epss': '0.000440000', 'percentile': '0.081500000'} https://nvd.nist.gov/vuln/detail/CVE-2020-10757
+CVE-2020-15393 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2020-15393
+CVE-2019-19338 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000480000', 'percentile': '0.149210000'} https://nvd.nist.gov/vuln/detail/CVE-2019-19338
+CVE-2020-15780 ['V31', 6.7, 'MEDIUM'] {'epss': '0.000470000', 'percentile': '0.141600000'} https://nvd.nist.gov/vuln/detail/CVE-2020-15780
+CVE-2020-16166 ['V31', 3.7, 'LOW'] {'epss': '0.001590000', 'percentile': '0.518220000'} https://nvd.nist.gov/vuln/detail/CVE-2020-16166
+CVE-2020-24394 ['V31', 7.1, 'HIGH'] {'epss': '0.000490000', 'percentile': '0.162270000'} https://nvd.nist.gov/vuln/detail/CVE-2020-24394
+CVE-2020-25211 ['V31', 6.0, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-25211
+CVE-2020-25212 ['V31', 7.0, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-25212
+CVE-2020-25284 ['V31', 4.1, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-25284
+CVE-2020-25285 ['V31', 6.4, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-25285
+CVE-2020-14331 ['V31', 6.6, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-14331
+CVE-2020-14314 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-14314
+CVE-2020-14385 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2020-14385
+CVE-2020-10766 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-10766
+CVE-2020-10767 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-10767
+CVE-2020-10768 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000440000', 'percentile': '0.102780000'} https://nvd.nist.gov/vuln/detail/CVE-2020-10768
+CVE-2020-10781 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-10781
+CVE-2020-14390 ['V31', 5.6, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2020-14390
+CVE-2020-26088 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-26088
+CVE-2020-26541 ['V31', 6.5, 'MEDIUM'] {'epss': '0.000480000', 'percentile': '0.147160000'} https://nvd.nist.gov/vuln/detail/CVE-2020-26541
+CVE-2020-25641 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-25641
+CVE-2020-25645 ['V31', 7.5, 'HIGH'] {'epss': '0.005220000', 'percentile': '0.739770000'} https://nvd.nist.gov/vuln/detail/CVE-2020-25645
+CVE-2020-27194 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000440000', 'percentile': '0.102780000'} https://nvd.nist.gov/vuln/detail/CVE-2020-27194
+CVE-2020-27675 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2020-27675
+CVE-2020-27152 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000600000', 'percentile': '0.235940000'} https://nvd.nist.gov/vuln/detail/CVE-2020-27152
+CVE-2020-25705 ['V31', 7.4, 'HIGH'] {'epss': '0.003030000', 'percentile': '0.658980000'} https://nvd.nist.gov/vuln/detail/CVE-2020-25705
+CVE-2020-28915 ['V31', 5.8, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-28915
+CVE-2020-28941 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-28941
+CVE-2020-28974 ['V31', 5.0, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-28974
+CVE-2020-15436 ['V31', 6.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-15436
+CVE-2020-15437 ['V31', 4.4, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-15437
+CVE-2020-29368 ['V31', 7.0, 'HIGH'] {'epss': '0.000800000', 'percentile': '0.331920000'} https://nvd.nist.gov/vuln/detail/CVE-2020-29368
+CVE-2020-29370 ['V31', 7.0, 'HIGH'] {'epss': '0.000800000', 'percentile': '0.331920000'} https://nvd.nist.gov/vuln/detail/CVE-2020-29370
+CVE-2020-29371 ['V31', 3.3, 'LOW'] {'epss': '0.000620000', 'percentile': '0.245910000'} https://nvd.nist.gov/vuln/detail/CVE-2020-29371
+CVE-2020-29372 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000680000', 'percentile': '0.282420000'} https://nvd.nist.gov/vuln/detail/CVE-2020-29372
+CVE-2020-29373 ['V31', 6.5, 'MEDIUM'] {'epss': '0.000540000', 'percentile': '0.195140000'} https://nvd.nist.gov/vuln/detail/CVE-2020-29373
+CVE-2020-29374 ['V31', 3.6, 'LOW'] {'epss': '0.000560000', 'percentile': '0.212760000'} https://nvd.nist.gov/vuln/detail/CVE-2020-29374
+CVE-2020-25656 ['V31', 4.1, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-25656
+CVE-2020-25704 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-25704
+CVE-2020-14351 ['V31', 7.8, 'HIGH'] {'epss': '0.000920000', 'percentile': '0.385210000'} https://nvd.nist.gov/vuln/detail/CVE-2020-14351
+CVE-2020-14381 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-14381
+CVE-2020-29534 ['V31', 7.8, 'HIGH'] {'epss': '0.000910000', 'percentile': '0.378900000'} https://nvd.nist.gov/vuln/detail/CVE-2020-29534
+CVE-2020-29660 ['V31', 4.4, 'MEDIUM'] {'epss': '0.000640000', 'percentile': '0.262090000'} https://nvd.nist.gov/vuln/detail/CVE-2020-29660
+CVE-2020-27777 ['V31', 6.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-27777
+CVE-2020-28374 ['V31', 8.1, 'HIGH'] {'epss': '0.001280000', 'percentile': '0.468270000'} https://nvd.nist.gov/vuln/detail/CVE-2020-28374
+CVE-2021-3178 ['V31', 6.5, 'MEDIUM'] {'epss': '0.002610000', 'percentile': '0.631760000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3178
+CVE-2021-3347 ['V31', 7.8, 'HIGH'] {'epss': '0.000440000', 'percentile': '0.081500000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3347
+CVE-2021-3348 ['V31', 7.0, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3348
+CVE-2020-16120 ['V31', 4.4, 'MEDIUM'] {'epss': '0.000470000', 'percentile': '0.142720000'} https://nvd.nist.gov/vuln/detail/CVE-2020-16120
+CVE-2021-26930 ['V31', 7.8, 'HIGH'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2021-26930
+CVE-2021-26931 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2021-26931
+CVE-2021-26932 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2021-26932
+CVE-2021-26934 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-26934
+CVE-2020-12362 ['V31', 7.8, 'HIGH'] {'epss': '0.000440000', 'percentile': '0.102780000'} https://nvd.nist.gov/vuln/detail/CVE-2020-12362
+CVE-2020-12363 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000440000', 'percentile': '0.102780000'} https://nvd.nist.gov/vuln/detail/CVE-2020-12363
+CVE-2020-12364 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000440000', 'percentile': '0.102780000'} https://nvd.nist.gov/vuln/detail/CVE-2020-12364
+CVE-2021-20194 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-20194
+CVE-2020-25639 ['V31', 4.4, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-25639
+CVE-2021-27363 ['V31', 4.4, 'MEDIUM'] {'epss': '0.000600000', 'percentile': '0.236610000'} https://nvd.nist.gov/vuln/detail/CVE-2021-27363
+CVE-2021-27364 ['V31', 7.1, 'HIGH'] {'epss': '0.000880000', 'percentile': '0.367910000'} https://nvd.nist.gov/vuln/detail/CVE-2021-27364
+CVE-2021-27365 ['V31', 7.8, 'HIGH'] {'epss': '0.000910000', 'percentile': '0.381910000'} https://nvd.nist.gov/vuln/detail/CVE-2021-27365
+CVE-2021-20268 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-20268
+CVE-2021-3411 ['V31', 6.7, 'MEDIUM'] {'epss': '0.000480000', 'percentile': '0.147160000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3411
+CVE-2021-28950 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2021-28950
+CVE-2021-28951 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2021-28951
+CVE-2021-28952 ['V31', 7.8, 'HIGH'] {'epss': '0.000500000', 'percentile': '0.162770000'} https://nvd.nist.gov/vuln/detail/CVE-2021-28952
+CVE-2020-27170 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000470000', 'percentile': '0.142060000'} https://nvd.nist.gov/vuln/detail/CVE-2020-27170
+CVE-2020-27171 ['V31', 6.0, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2020-27171
+CVE-2021-28964 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2021-28964
+CVE-2021-28971 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2021-28971
+CVE-2021-28972 ['V31', 6.7, 'MEDIUM'] {'epss': '0.000500000', 'percentile': '0.162770000'} https://nvd.nist.gov/vuln/detail/CVE-2021-28972
+CVE-2020-35508 ['V31', 4.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-35508
+CVE-2021-29264 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000440000', 'percentile': '0.102780000'} https://nvd.nist.gov/vuln/detail/CVE-2021-29264
+CVE-2021-29265 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000440000', 'percentile': '0.102780000'} https://nvd.nist.gov/vuln/detail/CVE-2021-29265
+CVE-2021-29646 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2021-29646
+CVE-2021-29647 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000480000', 'percentile': '0.145530000'} https://nvd.nist.gov/vuln/detail/CVE-2021-29647
+CVE-2021-29648 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2021-29648
+CVE-2021-29649 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2021-29649
+CVE-2021-29650 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2021-29650
+CVE-2021-30002 ['V31', 6.2, 'MEDIUM'] {'epss': '0.000650000', 'percentile': '0.265120000'} https://nvd.nist.gov/vuln/detail/CVE-2021-30002
+CVE-2021-28688 ['V31', 6.5, 'MEDIUM'] {'epss': '0.000440000', 'percentile': '0.102780000'} https://nvd.nist.gov/vuln/detail/CVE-2021-28688
+CVE-2020-36310 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000440000', 'percentile': '0.102780000'} https://nvd.nist.gov/vuln/detail/CVE-2020-36310
+CVE-2020-36311 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-36311
+CVE-2020-36312 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000440000', 'percentile': '0.102780000'} https://nvd.nist.gov/vuln/detail/CVE-2020-36312
+CVE-2020-36313 ['V31', 7.8, 'HIGH'] {'epss': '0.000440000', 'percentile': '0.102780000'} https://nvd.nist.gov/vuln/detail/CVE-2020-36313
+CVE-2021-30178 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-30178
+CVE-2020-36322 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2020-36322
+CVE-2021-3506 ['V31', 7.1, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3506
+CVE-2021-29155 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000480000', 'percentile': '0.145530000'} https://nvd.nist.gov/vuln/detail/CVE-2021-29155
+CVE-2021-3501 ['V31', 7.1, 'HIGH'] {'epss': '0.000440000', 'percentile': '0.102780000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3501
+CVE-2021-31829 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000460000', 'percentile': '0.129570000'} https://nvd.nist.gov/vuln/detail/CVE-2021-31829
+CVE-2021-31916 ['V31', 6.7, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2021-31916
+CVE-2021-32399 ['V31', 7.0, 'HIGH'] {'epss': '0.000770000', 'percentile': '0.319060000'} https://nvd.nist.gov/vuln/detail/CVE-2021-32399
+CVE-2021-23134 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-23134
+CVE-2020-27830 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2020-27830
+CVE-2021-33033 ['V31', 7.8, 'HIGH'] {'epss': '0.000840000', 'percentile': '0.349620000'} https://nvd.nist.gov/vuln/detail/CVE-2021-33033
+CVE-2021-33034 ['V31', 7.8, 'HIGH'] {'epss': '0.000740000', 'percentile': '0.306540000'} https://nvd.nist.gov/vuln/detail/CVE-2021-33034
+CVE-2021-3483 ['V31', 7.8, 'HIGH'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3483
+CVE-2020-26558 ['V31', 4.2, 'MEDIUM'] {'epss': '0.000670000', 'percentile': '0.275930000'} https://nvd.nist.gov/vuln/detail/CVE-2020-26558
+CVE-2020-25672 ['V31', 7.5, 'HIGH'] {'epss': '0.002480000', 'percentile': '0.620290000'} https://nvd.nist.gov/vuln/detail/CVE-2020-25672
+CVE-2020-25668 ['V31', 7.0, 'HIGH'] {'epss': '0.000590000', 'percentile': '0.229930000'} https://nvd.nist.gov/vuln/detail/CVE-2020-25668
+CVE-2020-27815 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-27815
+CVE-2020-36385 ['V31', 7.8, 'HIGH'] {'epss': '0.001060000', 'percentile': '0.423700000'} https://nvd.nist.gov/vuln/detail/CVE-2020-36385
+CVE-2020-36386 ['V31', 7.1, 'HIGH'] {'epss': '0.000790000', 'percentile': '0.328660000'} https://nvd.nist.gov/vuln/detail/CVE-2020-36386
+CVE-2021-3564 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.077860000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3564
+CVE-2021-34693 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-34693
+CVE-2021-32078 ['V31', 7.1, 'HIGH'] {'epss': '0.000810000', 'percentile': '0.334400000'} https://nvd.nist.gov/vuln/detail/CVE-2021-32078
+CVE-2021-33624 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.120230000'} https://nvd.nist.gov/vuln/detail/CVE-2021-33624
+CVE-2020-28097 ['V31', 5.9, 'MEDIUM'] {'epss': '0.000690000', 'percentile': '0.286280000'} https://nvd.nist.gov/vuln/detail/CVE-2020-28097
+CVE-2021-3612 ['V31', 7.8, 'HIGH'] {'epss': '0.000430000', 'percentile': '0.077590000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3612
+CVE-2021-37159 ['V31', 6.4, 'MEDIUM'] {'epss': '0.000760000', 'percentile': '0.311970000'} https://nvd.nist.gov/vuln/detail/CVE-2021-37159
+CVE-2021-35477 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000460000', 'percentile': '0.128700000'} https://nvd.nist.gov/vuln/detail/CVE-2021-35477
+CVE-2021-34556 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000460000', 'percentile': '0.128700000'} https://nvd.nist.gov/vuln/detail/CVE-2021-34556
+CVE-2021-3679 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3679
+CVE-2021-3655 ['V31', 3.3, 'LOW'] {'epss': '0.000470000', 'percentile': '0.141580000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3655
+CVE-2021-38160 ['V31', 7.8, 'HIGH'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2021-38160
+CVE-2021-38166 ['V31', 7.8, 'HIGH'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2021-38166
+CVE-2021-38198 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000600000', 'percentile': '0.235940000'} https://nvd.nist.gov/vuln/detail/CVE-2021-38198
+CVE-2021-38199 ['V31', 6.5, 'MEDIUM'] {'epss': '0.000840000', 'percentile': '0.347040000'} https://nvd.nist.gov/vuln/detail/CVE-2021-38199
+CVE-2021-38200 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-38200
+CVE-2021-38201 ['V31', 7.5, 'HIGH'] {'epss': '0.002850000', 'percentile': '0.647800000'} https://nvd.nist.gov/vuln/detail/CVE-2021-38201
+CVE-2021-38202 ['V31', 7.5, 'HIGH'] {'epss': '0.003440000', 'percentile': '0.680510000'} https://nvd.nist.gov/vuln/detail/CVE-2021-38202
+CVE-2021-38203 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000540000', 'percentile': '0.198250000'} https://nvd.nist.gov/vuln/detail/CVE-2021-38203
+CVE-2021-38204 ['V31', 6.8, 'MEDIUM'] {'epss': '0.000750000', 'percentile': '0.308250000'} https://nvd.nist.gov/vuln/detail/CVE-2021-38204
+CVE-2021-38205 ['V31', 3.3, 'LOW'] {'epss': '0.000450000', 'percentile': '0.120230000'} https://nvd.nist.gov/vuln/detail/CVE-2021-38205
+CVE-2021-38206 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000440000', 'percentile': '0.102780000'} https://nvd.nist.gov/vuln/detail/CVE-2021-38206
+CVE-2021-38207 ['V31', 7.5, 'HIGH'] {'epss': '0.003050000', 'percentile': '0.660000000'} https://nvd.nist.gov/vuln/detail/CVE-2021-38207
+CVE-2021-38208 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000630000', 'percentile': '0.256950000'} https://nvd.nist.gov/vuln/detail/CVE-2021-38208
+CVE-2021-38209 ['V31', 3.3, 'LOW'] {'epss': '0.000440000', 'percentile': '0.102780000'} https://nvd.nist.gov/vuln/detail/CVE-2021-38209
+CVE-2021-3573 ['V31', 6.4, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3573
+CVE-2021-3635 ['V31', 4.4, 'MEDIUM'] {'epss': '0.000440000', 'percentile': '0.102780000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3635
+CVE-2021-40490 ['V31', 7.0, 'HIGH'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2021-40490
+CVE-2021-41864 ['V31', 7.8, 'HIGH'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2021-41864
+CVE-2021-42252 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-42252
+CVE-2021-42739 ['V31', 6.7, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.077220000'} https://nvd.nist.gov/vuln/detail/CVE-2021-42739
+CVE-2021-42327 ['V31', 6.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-42327
+CVE-2021-43389 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000750000', 'percentile': '0.308180000'} https://nvd.nist.gov/vuln/detail/CVE-2021-43389
+CVE-2021-43975 ['V31', 6.7, 'MEDIUM'] {'epss': '0.000740000', 'percentile': '0.306540000'} https://nvd.nist.gov/vuln/detail/CVE-2021-43975
+CVE-2021-43976 ['V31', 4.6, 'MEDIUM'] {'epss': '0.001360000', 'percentile': '0.483120000'} https://nvd.nist.gov/vuln/detail/CVE-2021-43976
+CVE-2021-45095 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000480000', 'percentile': '0.146100000'} https://nvd.nist.gov/vuln/detail/CVE-2021-45095
+CVE-2021-45100 ['V31', 7.5, 'HIGH'] {'epss': '0.001210000', 'percentile': '0.457460000'} https://nvd.nist.gov/vuln/detail/CVE-2021-45100
+CVE-2021-44733 ['V31', 7.0, 'HIGH'] {'epss': '0.000680000', 'percentile': '0.280110000'} https://nvd.nist.gov/vuln/detail/CVE-2021-44733
+CVE-2021-45469 ['V31', 7.8, 'HIGH'] {'epss': '0.000740000', 'percentile': '0.306540000'} https://nvd.nist.gov/vuln/detail/CVE-2021-45469
+CVE-2021-45480 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2021-45480
+CVE-2021-45485 ['V31', 7.5, 'HIGH'] {'epss': '0.000940000', 'percentile': '0.391300000'} https://nvd.nist.gov/vuln/detail/CVE-2021-45485
+CVE-2021-45486 ['V31', 3.5, 'LOW'] {'epss': '0.000480000', 'percentile': '0.149200000'} https://nvd.nist.gov/vuln/detail/CVE-2021-45486
+CVE-2021-28714 ['V31', 6.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2021-28714
+CVE-2021-28715 ['V31', 6.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2021-28715
+CVE-2021-46283 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-46283
+CVE-2021-4083 ['V31', 7.0, 'HIGH'] {'epss': '0.000430000', 'percentile': '0.077590000'} https://nvd.nist.gov/vuln/detail/CVE-2021-4083
+CVE-2021-4001 ['V31', 4.1, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-4001
+CVE-2021-4032 ['V31', 4.4, 'MEDIUM'] {'epss': '0.000650000', 'percentile': '0.270220000'} https://nvd.nist.gov/vuln/detail/CVE-2021-4032
+CVE-2022-24448 ['V31', 3.3, 'LOW'] {'epss': '0.000490000', 'percentile': '0.153190000'} https://nvd.nist.gov/vuln/detail/CVE-2022-24448
+CVE-2022-0264 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-0264
+CVE-2022-0487 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-0487
+CVE-2022-24958 ['V31', 7.8, 'HIGH'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2022-24958
+CVE-2022-24959 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2022-24959
+CVE-2021-45402 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-45402
+CVE-2022-0382 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-0382
+CVE-2021-44879 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000630000', 'percentile': '0.256090000'} https://nvd.nist.gov/vuln/detail/CVE-2021-44879
+CVE-2022-0617 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-0617
+CVE-2021-3752 ['V31', 7.1, 'HIGH'] {'epss': '0.001200000', 'percentile': '0.454830000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3752
+CVE-2021-3753 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.122540000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3753
+CVE-2021-3773 ['V31', 9.8, 'CRITICAL'] {'epss': '0.008000000', 'percentile': '0.795200000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3773
+CVE-2022-25258 ['V31', 4.6, 'MEDIUM'] {'epss': '0.001080000', 'percentile': '0.429460000'} https://nvd.nist.gov/vuln/detail/CVE-2022-25258
+CVE-2022-25265 ['V31', 7.8, 'HIGH'] {'epss': '0.000490000', 'percentile': '0.161510000'} https://nvd.nist.gov/vuln/detail/CVE-2022-25265
+CVE-2021-20320 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-20320
+CVE-2021-20321 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-20321
+CVE-2021-20322 ['V31', 7.4, 'HIGH'] {'epss': '0.002720000', 'percentile': '0.639780000'} https://nvd.nist.gov/vuln/detail/CVE-2021-20322
+CVE-2021-4090 ['V31', 7.1, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-4090
+CVE-2022-25375 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000490000', 'percentile': '0.153190000'} https://nvd.nist.gov/vuln/detail/CVE-2022-25375
+CVE-2020-36516 ['V31', 5.9, 'MEDIUM'] {'epss': '0.000670000', 'percentile': '0.277330000'} https://nvd.nist.gov/vuln/detail/CVE-2020-36516
+CVE-2021-3772 ['V31', 6.5, 'MEDIUM'] {'epss': '0.002810000', 'percentile': '0.645590000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3772
+CVE-2021-4002 ['V31', 4.4, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.077220000'} https://nvd.nist.gov/vuln/detail/CVE-2021-4002
+CVE-2021-3640 ['V31', 7.0, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3640
+CVE-2021-3744 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.125130000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3744
+CVE-2021-3428 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3428
+CVE-2022-26490 ['V31', 7.8, 'HIGH'] {'epss': '0.000500000', 'percentile': '0.162770000'} https://nvd.nist.gov/vuln/detail/CVE-2022-26490
+CVE-2021-3732 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3732
+CVE-2021-3739 ['V31', 7.1, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3739
+CVE-2021-4023 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-4023
+CVE-2021-4095 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-4095
+CVE-2022-0433 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-0433
+CVE-2022-0516 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-0516
+CVE-2022-26878 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2022-26878
+CVE-2022-26966 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.120230000'} https://nvd.nist.gov/vuln/detail/CVE-2022-26966
+CVE-2022-27223 ['V31', 8.8, 'HIGH'] {'epss': '0.001000000', 'percentile': '0.405500000'} https://nvd.nist.gov/vuln/detail/CVE-2022-27223
+CVE-2021-45868 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000720000', 'percentile': '0.294950000'} https://nvd.nist.gov/vuln/detail/CVE-2021-45868
+CVE-2022-1011 ['V31', 7.8, 'HIGH'] {'epss': '0.000430000', 'percentile': '0.077590000'} https://nvd.nist.gov/vuln/detail/CVE-2022-1011
+CVE-2022-27666 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-27666
+CVE-2021-4148 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-4148
+CVE-2021-4149 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057690000'} https://nvd.nist.gov/vuln/detail/CVE-2021-4149
+CVE-2021-4150 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-4150
+CVE-2022-0854 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-0854
+CVE-2021-4203 ['V31', 6.8, 'MEDIUM'] {'epss': '0.001190000', 'percentile': '0.452810000'} https://nvd.nist.gov/vuln/detail/CVE-2021-4203
+CVE-2022-0322 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.077220000'} https://nvd.nist.gov/vuln/detail/CVE-2022-0322
+CVE-2022-0330 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-0330
+CVE-2022-0494 ['V31', 4.4, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-0494
+CVE-2022-27950 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-27950
+CVE-2022-1055 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-1055
+CVE-2020-35501 ['V31', 3.4, 'LOW'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2020-35501
+CVE-2021-3847 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3847
+CVE-2022-28356 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.119830000'} https://nvd.nist.gov/vuln/detail/CVE-2022-28356
+CVE-2022-28388 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2022-28388
+CVE-2022-28389 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2022-28389
+CVE-2022-28390 ['V31', 7.8, 'HIGH'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2022-28390
+CVE-2022-29582 ['V31', 7.0, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-29582
+CVE-2022-1015 ['V31', 6.6, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.077860000'} https://nvd.nist.gov/vuln/detail/CVE-2022-1015
+CVE-2022-1195 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-1195
+CVE-2022-1353 ['V31', 7.1, 'HIGH'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2022-1353
+CVE-2022-29968 ['V31', 7.8, 'HIGH'] {'epss': '0.000450000', 'percentile': '0.121570000'} https://nvd.nist.gov/vuln/detail/CVE-2022-29968
+CVE-2022-1734 ['V31', 7.0, 'HIGH'] {'epss': '0.000470000', 'percentile': '0.143570000'} https://nvd.nist.gov/vuln/detail/CVE-2022-1734
+CVE-2022-1419 ['V31', 7.8, 'HIGH'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-1419
+CVE-2022-1789 ['V31', 6.8, 'MEDIUM'] {'epss': '0.000840000', 'percentile': '0.346570000'} https://nvd.nist.gov/vuln/detail/CVE-2022-1789
+CVE-2022-32296 ['V31', 3.3, 'LOW'] {'epss': '0.000480000', 'percentile': '0.147310000'} https://nvd.nist.gov/vuln/detail/CVE-2022-32296
+CVE-2022-32981 ['V31', 7.8, 'HIGH'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-32981
+CVE-2022-33981 ['V31', 3.3, 'LOW'] {'epss': '0.000490000', 'percentile': '0.153150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-33981
+CVE-2022-34494 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-34494
+CVE-2022-34495 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-34495
+CVE-2022-1852 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-1852
+CVE-2022-2078 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000470000', 'percentile': '0.143450000'} https://nvd.nist.gov/vuln/detail/CVE-2022-2078
+CVE-2022-34918 ['V31', 7.8, 'HIGH'] {'epss': '0.005010000', 'percentile': '0.734400000'} https://nvd.nist.gov/vuln/detail/CVE-2022-34918
+CVE-2022-33744 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-33744
+CVE-2022-2318 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-2318
+CVE-2022-2380 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-2380
+CVE-2021-4135 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-4135
+CVE-2021-33655 ['V31', 6.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-33655
+CVE-2021-33656 ['V31', 6.8, 'MEDIUM'] {'epss': '0.000600000', 'percentile': '0.233240000'} https://nvd.nist.gov/vuln/detail/CVE-2021-33656
+CVE-2020-36557 ['V31', 5.1, 'MEDIUM'] {'epss': '0.000500000', 'percentile': '0.163640000'} https://nvd.nist.gov/vuln/detail/CVE-2020-36557
+CVE-2020-36558 ['V31', 5.1, 'MEDIUM'] {'epss': '0.000500000', 'percentile': '0.163340000'} https://nvd.nist.gov/vuln/detail/CVE-2020-36558
+CVE-2022-36879 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-36879
+CVE-2022-36123 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-36123
+CVE-2022-1012 ['V31', 8.2, 'HIGH'] {'epss': '0.000850000', 'percentile': '0.351640000'} https://nvd.nist.gov/vuln/detail/CVE-2022-1012
+CVE-2022-2503 ['V31', 6.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-2503
+CVE-2021-3659 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3659
+CVE-2022-2873 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-2873
+CVE-2021-3736 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3736
+CVE-2021-3764 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3764
+CVE-2021-4037 ['V31', 7.8, 'HIGH'] {'epss': '0.000490000', 'percentile': '0.153690000'} https://nvd.nist.gov/vuln/detail/CVE-2021-4037
+CVE-2021-4155 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-4155
+CVE-2021-4159 ['V31', 4.4, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-4159
+CVE-2021-4204 ['V31', 7.1, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-4204
+CVE-2022-2991 ['V31', 6.7, 'MEDIUM'] {'epss': '0.000500000', 'percentile': '0.168300000'} https://nvd.nist.gov/vuln/detail/CVE-2022-2991
+CVE-2021-3669 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3669
+CVE-2022-0168 ['V31', 4.4, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-0168
+CVE-2022-0171 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-0171
+CVE-2022-0480 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-0480
+CVE-2022-0812 ['V31', 4.3, 'MEDIUM'] {'epss': '0.000870000', 'percentile': '0.358620000'} https://nvd.nist.gov/vuln/detail/CVE-2022-0812
+CVE-2022-0850 ['V31', 7.1, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057690000'} https://nvd.nist.gov/vuln/detail/CVE-2022-0850
+CVE-2022-1016 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.122540000'} https://nvd.nist.gov/vuln/detail/CVE-2022-1016
+CVE-2022-1198 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-1198
+CVE-2022-1199 ['V31', 7.5, 'HIGH'] {'epss': '0.001410000', 'percentile': '0.491990000'} https://nvd.nist.gov/vuln/detail/CVE-2022-1199
+CVE-2022-1204 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-1204
+CVE-2022-2961 ['V31', 7.0, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-2961
+CVE-2022-1205 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-1205
+CVE-2022-1263 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-1263
+CVE-2022-1508 ['V31', 6.1, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-1508
+CVE-2022-2153 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-2153
+CVE-2022-3078 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-3078
+CVE-2022-39188 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-39188
+CVE-2022-39189 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-39189
+CVE-2022-39190 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-39190
+CVE-2022-39842 ['V31', 6.1, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-39842
+CVE-2022-40307 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-40307
+CVE-2022-2905 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-2905
+CVE-2022-36280 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-36280
+CVE-2022-38096 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-38096
+CVE-2022-38457 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-38457
+CVE-2022-3077 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-3077
+CVE-2022-40133 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-40133
+CVE-2022-3202 ['V31', 7.1, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-3202
+CVE-2022-40476 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-40476
+CVE-2022-40768 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-40768
+CVE-2022-41218 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057470000'} https://nvd.nist.gov/vuln/detail/CVE-2022-41218
+CVE-2022-2785 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-2785
+CVE-2022-3303 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-3303
+CVE-2022-41848 ['V31', 4.2, 'MEDIUM'] {'epss': '0.000440000', 'percentile': '0.105150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-41848
+CVE-2022-41849 ['V31', 4.2, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057470000'} https://nvd.nist.gov/vuln/detail/CVE-2022-41849
+CVE-2022-41850 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-41850
+CVE-2022-42703 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000560000', 'percentile': '0.211180000'} https://nvd.nist.gov/vuln/detail/CVE-2022-42703
+CVE-2022-42721 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-42721
+CVE-2022-3521 ['V31', 2.5, 'LOW'] {'epss': '0.000450000', 'percentile': '0.120230000'} https://nvd.nist.gov/vuln/detail/CVE-2022-3521
+CVE-2022-3533 ['V31', 5.7, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-3533
+CVE-2022-3543 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-3543
+CVE-2022-3544 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-3544
+CVE-2022-3594 ['V31', 5.3, 'MEDIUM'] {'epss': '0.002240000', 'percentile': '0.600590000'} https://nvd.nist.gov/vuln/detail/CVE-2022-3594
+CVE-2022-3595 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-3595
+CVE-2022-3606 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-3606
+CVE-2022-3586 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.126920000'} https://nvd.nist.gov/vuln/detail/CVE-2022-3586
+CVE-2022-3344 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-3344
+CVE-2022-44032 ['V31', 6.4, 'MEDIUM'] {'epss': '0.000530000', 'percentile': '0.192940000'} https://nvd.nist.gov/vuln/detail/CVE-2022-44032
+CVE-2022-44033 ['V31', 6.4, 'MEDIUM'] {'epss': '0.000530000', 'percentile': '0.192940000'} https://nvd.nist.gov/vuln/detail/CVE-2022-44033
+CVE-2022-44034 ['V31', 6.4, 'MEDIUM'] {'epss': '0.000530000', 'percentile': '0.192940000'} https://nvd.nist.gov/vuln/detail/CVE-2022-44034
+CVE-2022-43945 ['V31', 7.5, 'HIGH'] {'epss': '0.000530000', 'percentile': '0.189930000'} https://nvd.nist.gov/vuln/detail/CVE-2022-43945
+CVE-2022-45884 ['V31', 7.0, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-45884
+CVE-2022-45885 ['V31', 7.0, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-45885
+CVE-2022-45886 ['V31', 7.0, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-45886
+CVE-2022-45887 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-45887
+CVE-2022-45888 ['V31', 6.4, 'MEDIUM'] {'epss': '0.000530000', 'percentile': '0.192940000'} https://nvd.nist.gov/vuln/detail/CVE-2022-45888
+CVE-2022-45919 ['V31', 7.0, 'HIGH'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-45919
+CVE-2022-4127 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-4127
+CVE-2022-45869 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-45869
+CVE-2022-42328 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-42328
+CVE-2022-42329 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-42329
+CVE-2022-3104 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-3104
+CVE-2022-3105 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-3105
+CVE-2022-3106 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-3106
+CVE-2022-3107 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-3107
+CVE-2022-3108 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-3108
+CVE-2022-3110 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-3110
+CVE-2022-3111 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-3111
+CVE-2022-3112 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-3112
+CVE-2022-3113 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-3113
+CVE-2022-3114 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-3114
+CVE-2022-3115 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-3115
+CVE-2022-47518 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-47518
+CVE-2022-47519 ['V31', 7.8, 'HIGH'] {'epss': '0.000450000', 'percentile': '0.123900000'} https://nvd.nist.gov/vuln/detail/CVE-2022-47519
+CVE-2022-47520 ['V31', 7.1, 'HIGH'] {'epss': '0.000450000', 'percentile': '0.123900000'} https://nvd.nist.gov/vuln/detail/CVE-2022-47520
+CVE-2022-4662 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-4662
+CVE-2022-4543 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-4543
+CVE-2023-23454 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-23454
+CVE-2023-23455 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-23455
+CVE-2022-41858 ['V31', 7.1, 'HIGH'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2022-41858
+CVE-2022-47929 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-47929
+CVE-2023-0394 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-0394
+CVE-2023-0468 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2023-0468
+CVE-2023-0469 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2023-0469
+CVE-2023-0240 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-0240
+CVE-2023-25012 ['V31', 4.6, 'MEDIUM'] {'epss': '0.000440000', 'percentile': '0.082440000'} https://nvd.nist.gov/vuln/detail/CVE-2023-25012
+CVE-2023-0615 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-0615
+CVE-2023-26242 ['V31', 7.8, 'HIGH'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2023-26242
+CVE-2023-23039 ['V31', 5.7, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.122900000'} https://nvd.nist.gov/vuln/detail/CVE-2023-23039
+CVE-2023-26545 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-26545
+CVE-2023-22995 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-22995
+CVE-2023-22996 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2023-22996
+CVE-2023-22997 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2023-22997
+CVE-2023-22998 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-22998
+CVE-2023-22999 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2023-22999
+CVE-2023-1095 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2023-1095
+CVE-2023-23000 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-23000
+CVE-2023-23001 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2023-23001
+CVE-2023-23002 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2023-23002
+CVE-2023-23003 ['V31', 4.0, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-23003
+CVE-2023-23004 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-23004
+CVE-2023-23005 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-23005
+CVE-2023-23006 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2023-23006
+CVE-2023-1118 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-1118
+CVE-2022-3707 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-3707
+CVE-2023-28466 ['V31', 7.0, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-28466
+CVE-2022-48423 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-48423
+CVE-2022-48425 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-48425
+CVE-2023-1281 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-1281
+CVE-2023-0590 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2023-0590
+CVE-2023-1249 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-1249
+CVE-2023-1513 ['V31', 3.3, 'LOW'] {'epss': '0.000450000', 'percentile': '0.122540000'} https://nvd.nist.gov/vuln/detail/CVE-2023-1513
+CVE-2020-36691 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2020-36691
+CVE-2023-28866 ['V31', 5.3, 'MEDIUM'] {'epss': '0.000520000', 'percentile': '0.183170000'} https://nvd.nist.gov/vuln/detail/CVE-2023-28866
+CVE-2021-3923 ['V31', 2.3, 'LOW'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2021-3923
+CVE-2023-1079 ['V31', 6.8, 'MEDIUM'] {'epss': '0.000500000', 'percentile': '0.170990000'} https://nvd.nist.gov/vuln/detail/CVE-2023-1079
+CVE-2023-1380 ['V31', 7.1, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-1380
+CVE-2023-1670 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-1670
+CVE-2023-1611 ['V31', 6.3, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-1611
+CVE-2023-1838 ['V31', 7.1, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-1838
+CVE-2023-1582 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-1582
+CVE-2023-1855 ['V31', 6.3, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-1855
+CVE-2023-30456 ['V31', 6.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-30456
+CVE-2023-1989 ['V31', 7.0, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-1989
+CVE-2023-1829 ['V31', 7.8, 'HIGH'] {'epss': '0.000460000', 'percentile': '0.141270000'} https://nvd.nist.gov/vuln/detail/CVE-2023-1829
+CVE-2023-1872 ['V31', 7.0, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-1872
+CVE-2023-1990 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-1990
+CVE-2023-2008 ['V31', 7.8, 'HIGH'] {'epss': '0.000910000', 'percentile': '0.382360000'} https://nvd.nist.gov/vuln/detail/CVE-2023-2008
+CVE-2023-30772 ['V31', 6.4, 'MEDIUM'] {'epss': '0.000500000', 'percentile': '0.170990000'} https://nvd.nist.gov/vuln/detail/CVE-2023-30772
+CVE-2023-2162 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.122540000'} https://nvd.nist.gov/vuln/detail/CVE-2023-2162
+CVE-2023-1382 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2023-1382
+CVE-2023-28327 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-28327
+CVE-2023-28328 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-28328
+CVE-2023-2166 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-2166
+CVE-2023-2177 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-2177
+CVE-2023-2194 ['V31', 6.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-2194
+CVE-2023-1998 ['V31', 5.6, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.124360000'} https://nvd.nist.gov/vuln/detail/CVE-2023-1998
+CVE-2023-2019 ['V31', 4.4, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.126920000'} https://nvd.nist.gov/vuln/detail/CVE-2023-2019
+CVE-2023-2007 ['V31', 7.8, 'HIGH'] {'epss': '0.000470000', 'percentile': '0.142160000'} https://nvd.nist.gov/vuln/detail/CVE-2023-2007
+CVE-2023-0458 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.120230000'} https://nvd.nist.gov/vuln/detail/CVE-2023-0458
+CVE-2023-31436 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-31436
+CVE-2023-32269 ['V31', 6.7, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2023-32269
+CVE-2023-32233 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-32233
+CVE-2023-2513 ['V31', 6.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-2513
+CVE-2023-2124 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-2124
+CVE-2023-1859 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-1859
+CVE-2023-33203 ['V31', 6.4, 'MEDIUM'] {'epss': '0.000500000', 'percentile': '0.170990000'} https://nvd.nist.gov/vuln/detail/CVE-2023-33203
+CVE-2023-1195 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2023-1195
+CVE-2020-36694 ['V31', 6.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2020-36694
+CVE-2023-33288 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-33288
+CVE-2023-2002 ['V31', 6.8, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.078720000'} https://nvd.nist.gov/vuln/detail/CVE-2023-2002
+CVE-2022-48502 ['V31', 7.1, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2022-48502
+CVE-2023-34256 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-34256
+CVE-2023-2985 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-2985
+CVE-2023-3111 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-3111
+CVE-2023-3141 ['V31', 7.1, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-3141
+CVE-2023-3161 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2023-3161
+CVE-2023-3159 ['V31', 6.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-3159
+CVE-2023-3268 ['V31', 7.1, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-3268
+CVE-2023-35788 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-35788
+CVE-2023-35823 ['V31', 7.0, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-35823
+CVE-2023-35824 ['V31', 7.0, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-35824
+CVE-2023-35826 ['V31', 7.0, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-35826
+CVE-2023-35827 ['V31', 7.0, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-35827
+CVE-2023-35828 ['V31', 7.0, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-35828
+CVE-2023-35829 ['V31', 7.0, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-35829
+CVE-2023-3220 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2023-3220
+CVE-2023-3212 ['V31', 4.4, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-3212
+CVE-2023-3090 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-3090
+CVE-2023-3355 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-3355
+CVE-2023-3390 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-3390
+CVE-2023-3439 ['V31', 4.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-3439
+CVE-2023-3357 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-3357
+CVE-2023-3358 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-3358
+CVE-2023-3359 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2023-3359
+CVE-2023-1206 ['V31', 5.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-1206
+CVE-2023-37453 ['V31', 4.6, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.121830000'} https://nvd.nist.gov/vuln/detail/CVE-2023-37453
+CVE-2023-37454 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000460000', 'percentile': '0.140820000'} https://nvd.nist.gov/vuln/detail/CVE-2023-37454
+CVE-2023-32250 ['V31', 8.1, 'HIGH'] {'epss': '0.002170000', 'percentile': '0.590550000'} https://nvd.nist.gov/vuln/detail/CVE-2023-32250
+CVE-2023-32254 ['V31', 8.1, 'HIGH'] {'epss': '0.002170000', 'percentile': '0.590550000'} https://nvd.nist.gov/vuln/detail/CVE-2023-32254
+CVE-2023-3269 ['V31', 7.8, 'HIGH'] {'epss': '0.000600000', 'percentile': '0.235180000'} https://nvd.nist.gov/vuln/detail/CVE-2023-3269
+CVE-2023-38409 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000430000', 'percentile': '0.069150000'} https://nvd.nist.gov/vuln/detail/CVE-2023-38409
+CVE-2023-38426 ['V31', 9.1, 'CRITICAL'] {'epss': '0.000870000', 'percentile': '0.359990000'} https://nvd.nist.gov/vuln/detail/CVE-2023-38426
+CVE-2023-38427 ['V31', 9.8, 'CRITICAL'] {'epss': '0.000630000', 'percentile': '0.255550000'} https://nvd.nist.gov/vuln/detail/CVE-2023-38427
+CVE-2023-38428 ['V31', 9.1, 'CRITICAL'] {'epss': '0.000610000', 'percentile': '0.238280000'} https://nvd.nist.gov/vuln/detail/CVE-2023-38428
+CVE-2023-38429 ['V31', 9.8, 'CRITICAL'] {'epss': '0.000910000', 'percentile': '0.381490000'} https://nvd.nist.gov/vuln/detail/CVE-2023-38429
+CVE-2023-38430 ['V31', 9.1, 'CRITICAL'] {'epss': '0.000610000', 'percentile': '0.238280000'} https://nvd.nist.gov/vuln/detail/CVE-2023-38430
+CVE-2023-38431 ['V31', 9.1, 'CRITICAL'] {'epss': '0.000610000', 'percentile': '0.238280000'} https://nvd.nist.gov/vuln/detail/CVE-2023-38431
+CVE-2023-38432 ['V31', 9.1, 'CRITICAL'] {'epss': '0.000610000', 'percentile': '0.238280000'} https://nvd.nist.gov/vuln/detail/CVE-2023-38432
+CVE-2023-0160 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-0160
+CVE-2023-3609 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-3609
+CVE-2023-3611 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-3611
+CVE-2023-3776 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-3776
+CVE-2023-2430 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-2430
+CVE-2023-3863 ['V31', 4.1, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-3863
+CVE-2023-2860 ['V31', 4.4, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.126920000'} https://nvd.nist.gov/vuln/detail/CVE-2023-2860
+CVE-2023-32247 ['V31', 7.5, 'HIGH'] {'epss': '0.002280000', 'percentile': '0.604790000'} https://nvd.nist.gov/vuln/detail/CVE-2023-32247
+CVE-2023-32248 ['V31', 7.5, 'HIGH'] {'epss': '0.002350000', 'percentile': '0.610070000'} https://nvd.nist.gov/vuln/detail/CVE-2023-32248
+CVE-2023-32252 ['V31', 7.5, 'HIGH'] {'epss': '0.002350000', 'percentile': '0.610070000'} https://nvd.nist.gov/vuln/detail/CVE-2023-32252
+CVE-2023-32257 ['V31', 8.1, 'HIGH'] {'epss': '0.002170000', 'percentile': '0.591090000'} https://nvd.nist.gov/vuln/detail/CVE-2023-32257
+CVE-2023-32258 ['V31', 8.1, 'HIGH'] {'epss': '0.002170000', 'percentile': '0.591090000'} https://nvd.nist.gov/vuln/detail/CVE-2023-32258
+CVE-2023-33951 ['V31', 5.3, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.126920000'} https://nvd.nist.gov/vuln/detail/CVE-2023-33951
+CVE-2023-33952 ['V31', 6.7, 'MEDIUM'] {'epss': '0.000450000', 'percentile': '0.126920000'} https://nvd.nist.gov/vuln/detail/CVE-2023-33952
+CVE-2023-3567 ['V31', 7.1, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-3567
+CVE-2023-3812 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-3812
+CVE-2023-4004 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-4004
+CVE-2023-4132 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-4132
+CVE-2023-4133 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-4133
+CVE-2023-4147 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-4147
+CVE-2023-4194 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-4194
+CVE-2023-4273 ['V31', 6.7, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-4273
+CVE-2023-4128 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-4128
+CVE-2023-40283 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-40283
+CVE-2023-4385 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-4385
+CVE-2023-4387 ['V31', 7.1, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-4387
+CVE-2023-4389 ['V31', 7.1, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-4389
+CVE-2023-4394 ['V31', 6.0, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-4394
+CVE-2023-4459 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-4459
+CVE-2023-4569 ['V31', 5.5, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-4569
+CVE-2023-4611 ['V31', 6.3, 'MEDIUM'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-4611
+CVE-2023-3777 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-3777
+CVE-2023-4015 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-4015
+CVE-2023-4206 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-4206
+CVE-2023-4207 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-4207
+CVE-2023-4208 ['V31', 7.8, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-4208
+CVE-2023-4244 ['V31', 7.0, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-4244
+CVE-2023-4622 ['V31', 7.0, 'HIGH'] {'epss': '0.000420000', 'percentile': '0.057080000'} https://nvd.nist.gov/vuln/detail/CVE-2023-4622
+CVE-2023-4921 ['V31', 7.8, 'HIGH'] {'epss': '0.000500000', 'percentile': '0.168110000'} https://nvd.nist.gov/vuln/detail/CVE-2023-4921

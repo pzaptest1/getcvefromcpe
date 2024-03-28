@@ -17,6 +17,8 @@
             //"args" : ["cpe:2.3:a:systemd_project:systemd:251:-:*:*:*:*:*:*"],
             //"args" : ["cpe:2.3:o:linux:linux_kernel:5.4.234:*:*:*:*:*:*:*"],
             //"args" : ["cpe:2.3:a:openssl:openssl:1.1.1f:*:*:*:*:*:*:*"],
+            //"args" : ["cpe:2.3:a:perl:perl:5.36.0:*:*:*:*:*:*:*"]
+            //"args": ["cpe:2.3:"],
             "console": "integratedTerminal",
             "justMyCode": true
         }

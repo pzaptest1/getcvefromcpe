@@ -4,6 +4,8 @@ import re
 import sys
 import json
 import requests
+import datetime
+
 
 def get_cpe_from_buildrt(jfile):
 
@@ -206,13 +208,17 @@ if __name__ == "__main__":
 
         #get information from spreadsheet return cves
        
-        excel_filename = "Book1.xlsx"
+        excel_filename = "NSMBroken.xlsx"
 
         #modify the list as appropriate
         #sheet_name = ['product1', 'product2', 'product3','product4','product5']
-        sheet_name = ['client', 'connect']
+        sheet_name = ['linux']
 
         cve_list = []
+
+        end = datetime.datetime.now()
+        start = end - datetime.timedelta(days = 90)
+
 
    
         for sheet in sheet_name:
@@ -220,7 +226,9 @@ if __name__ == "__main__":
             cpe_strings = read_packages_from_excel(excel_filename, sheet)
             for cpe_string in cpe_strings:
                 print(f"CPE String: {cpe_string}")
-                r = nvdlib.searchCVE(cpeName = cpe_string)
+                r= nvdlib.searchCVE(pubStartDate=start, pubEndDate=end, cpeName=cpe_string) 
+                #r = nvdlib.searchCVE(cpeName = cpe_string, key='eb093208-0f27-4177-afd9-1df7f6a5c997', verbose=True)
+                #r = nvdlib.searchCVE(cpeName = cpe_string )
                 for eachCVE in r:
                     epss_scores = get_epss_scores(eachCVE.id)
                     print(eachCVE.id, eachCVE.score, epss_scores[eachCVE.id], eachCVE.url)
