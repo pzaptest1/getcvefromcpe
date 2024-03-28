@@ -77,7 +77,7 @@ def validate_input(input_str):
 def validate_version_string(s):
     
     s = re.sub(r'\s+', '', s)  # Remove all whitespace characters from the string
-
+    # NB this can be better implemented using the pyparsing lib using the ABNF format specified 
     # Regular expression patterns for each format
     patterns = [
         r'^\d+\.\d+\.\d+[a-zA-Z]$',  # 1.1.1a
@@ -90,6 +90,7 @@ def validate_version_string(s):
         r'^\d+\.\d+\.\d+$',          # 5.4.234
         r'^[a-fA-F0-9]{40}$',        # 40-character hexadecimal 
         r'^\d+\.\d+\.\d+-\d{14}-[a-fA-F0-9]+$' # 0.0.0-20200622213623-75b288015ac9
+        r'^([\w"]|\\\\[\\\\?"\*\!\\\\"#$%&\'()\+\,./:;<=>@\[\]\^`{|}~\-])*$' #catch all according to section 5.3.2 of https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7695.pdf
     ]
     
     
@@ -108,7 +109,7 @@ def process_nums(input_str):
 
 
 
-def generate_cpe_string(part_name, package_name, vendor, package_version, update_version):
+def generate_cpe_string(part_name, vendor, package_name, package_version, update_version):
     cpe_version = "2.3"  # CPE version
     part = part_name # Part is typically 'a' for applications
     product = package_name
@@ -182,7 +183,7 @@ def read_packages_from_excel(filename, sheet):
                 update_version = "*"
             else: 
                 update_version = validate_input(str(update_version))    
-            cpe_string = generate_cpe_string(part_name, package_name, vendor, package_version, update_version)
+            cpe_string = generate_cpe_string(part_name, vendor, package_name, package_version, update_version)
             package_data.append(cpe_string)
                     
     except Exception as e:
@@ -208,18 +209,19 @@ if __name__ == "__main__":
 
         #get information from spreadsheet return cves
        
-        excel_filename = "NSMBroken.xlsx"
+        excel_filename = "Book1.xlsx"
 
         #modify the list as appropriate
         #sheet_name = ['product1', 'product2', 'product3','product4','product5']
-        sheet_name = ['linux']
+        sheet_name = ['cadmium']
 
         cve_list = []
 
+        period = 120
         end = datetime.datetime.now()
-        start = end - datetime.timedelta(days = 90)
+        start = end - datetime.timedelta(days = period)
 
-
+        print(f"Listing bugs from the last {period} days")
    
         for sheet in sheet_name:
             print(sheet)
@@ -231,7 +233,8 @@ if __name__ == "__main__":
                 #r = nvdlib.searchCVE(cpeName = cpe_string )
                 for eachCVE in r:
                     epss_scores = get_epss_scores(eachCVE.id)
-                    print(eachCVE.id, eachCVE.score, epss_scores[eachCVE.id], eachCVE.url)
+                    if (epss_scores):
+                        print(eachCVE.id, eachCVE.score, epss_scores[eachCVE.id], eachCVE.url)
  
     else:
         #get test string from commandline - feed in the specific cpe
